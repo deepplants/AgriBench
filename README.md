@@ -1,4 +1,4 @@
-# 🌾 Agribench: A Benchmark for Large Language Models in Agriculture 🌱
+# 🌾 Agribench: A Domain-Specific Benchmark for Large Language Models in Agriculture 🌱
 
 Agribench is a specialized benchmark 📊 designed to evaluate and improve the performance of large language models (LLMs) 🧠 in the agricultural domain 🌍. It focuses on understanding the capabilities and limitations of LLMs in tasks specific to agronomy, farming 🚜, and related disciplines.
 
