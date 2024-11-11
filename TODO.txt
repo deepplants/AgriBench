@@ -1,0 +1,4 @@
+X Implement translation question by question
+X check the effect of translation on QA with images
+X find a way to adapt tables to text and check the effect of translation
+- evaluate translation quality

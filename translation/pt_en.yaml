@@ -1,0 +1,26 @@
+transforms: [sentencepiece, prefix, suffix]
+#transforms: [prefix, suffix]
+# nllb-200 specific prefixing and suffixing
+src_prefix: "por_Latn"
+tgt_prefix: "eng_Latn" 
+tgt_file_prefix: true
+src_suffix: "</s>"
+tgt_suffix: ""
+
+#### Subword
+src_subword_model: "/workdir/translation/tokenizers/flores200_sacrebleu_tokenizer_spm.model"
+tgt_subword_model: "/workdir/translation/tokenizers/flores200_sacrebleu_tokenizer_spm.model"
+src_subword_nbest: 1
+src_subword_alpha: 0.0
+tgt_subword_nbest: 1
+tgt_subword_alpha: 0.0
+# Model info
+model: "/workdir/translation/models/nllb-200-3.3B-onmt.pt"
+# Inference
+max_length: 512
+gpu: 1
+batch_type: tokens
+batch_size: 2048
+fp16:
+beam_size: 5
+report_time: true

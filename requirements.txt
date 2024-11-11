@@ -1,0 +1,22 @@
+ebooklib
+bs4
+#numpy
+#torch==2.0
+pyrouge
+sentencepiece>=0.1.94, <0.1.98
+subword-nmt>=0.3.7
+rapidfuzz
+scipy
+bitsandbytes>=0.41.2
+safetensors
+spacy
+gradio
+OpenNMT-py
+ollama
+transformers #?
+aiohttp
+qwikidata
+pprintpp
+nltk
+fastparquet
+pyarrow
