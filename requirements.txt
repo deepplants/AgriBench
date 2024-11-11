@@ -1,21 +1,21 @@
 ebooklib
 bs4
-#numpy
+numpy
 #torch==2.0
 pyrouge
-sentencepiece>=0.1.94, <0.1.98
-subword-nmt>=0.3.7
-rapidfuzz
+#sentencepiece>=0.1.94, <0.1.98
+#subword-nmt>=0.3.7
+#rapidfuzz
 scipy
-bitsandbytes>=0.41.2
+#bitsandbytes>=0.41.2
 safetensors
 spacy
 gradio
-OpenNMT-py
+#OpenNMT-py
 ollama
-transformers #?
+#transformers #?
 aiohttp
-qwikidata
+#qwikidata
 pprintpp
 nltk
 fastparquet
