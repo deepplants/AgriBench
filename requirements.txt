@@ -20,3 +20,4 @@ pprintpp
 nltk
 fastparquet
 pyarrow
+anytree
