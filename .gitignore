@@ -5,3 +5,4 @@
 /translation/OpenNMT-py/
 /translation/models/nllb-200-3.3B-onmt.pt
 /requirements.txt
+/important_datasets/

@@ -39,4 +39,3 @@ Agribench is a specialized benchmark 📊 designed to evaluate and improve the p
 - 🌾 Providing accurate guidance on agricultural procedures like crop management, pest control 🐛, and farming techniques 🌿.
 
 🎉 Contributions are welcome to help improve LLMs' performance in agricultural problem-solving and decision-making!
->>>>>>> origin/main
