@@ -21,4 +21,3 @@ nltk
 fastparquet
 pyarrow
 anytree
-networkx
