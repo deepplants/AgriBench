@@ -22,3 +22,5 @@ fastparquet
 pyarrow
 anytree
 networkx
+python-dwca-reader
+seaborn
