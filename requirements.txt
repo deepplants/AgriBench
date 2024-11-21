@@ -24,3 +24,4 @@ anytree
 networkx
 python-dwca-reader
 seaborn
+ipykernel
