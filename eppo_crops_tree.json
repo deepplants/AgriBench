@@ -1,0 +1,4038 @@
+{
+    "text": "crop groups",
+    "eppo": "3CRGK",
+    "taxo": "non-taxonomic",
+    "url": "https://gd.eppo.int/PPPUse/3CRGK",
+    "children": [
+        {
+            "text": "arable crops",
+            "eppo": "3ARAC",
+            "taxo": "non-taxonomic",
+            "url": "https://gd.eppo.int/taxon/3ARAC",
+            "children": [
+                {
+                    "text": "Amaranthus cruentus",
+                    "eppo": "AMACR",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/AMACR"
+                },
+                {
+                    "text": "Baptisia tinctoria",
+                    "eppo": "BAPTI",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/BAPTI"
+                },
+                {
+                    "text": "beet crops",
+                    "eppo": "3BEEC",
+                    "taxo": "non-taxonomic",
+                    "url": "https://gd.eppo.int/taxon/3BEEC",
+                    "children": [
+                        {
+                            "text": "Beta vulgaris subsp. vulgaris var. altissima",
+                            "eppo": "BEAVA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/BEAVA"
+                        },
+                        {
+                            "text": "Beta vulgaris subsp. vulgaris var. crassa",
+                            "eppo": "BEAVC",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/BEAVC"
+                        }
+                    ]
+                },
+                {
+                    "text": "brassica arable crops",
+                    "eppo": "3BRAC",
+                    "taxo": "non-taxonomic",
+                    "url": "https://gd.eppo.int/taxon/3BRAC",
+                    "children": [
+                        {
+                            "text": "Brassica napus subsp. rapifera",
+                            "eppo": "BRSNA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/BRSNA"
+                        },
+                        {
+                            "text": "Brassica oleracea var. medullosa",
+                            "eppo": "BRSOM",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/BRSOM"
+                        },
+                        {
+                            "text": "Camelina alyssum",
+                            "eppo": "CMAAL",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CMAAL"
+                        },
+                        {
+                            "text": "Camelina sativa",
+                            "eppo": "CMASA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CMASA"
+                        },
+                        {
+                            "text": "mustard crops",
+                            "eppo": "3MUSC",
+                            "taxo": "non-taxonomic",
+                            "url": "https://gd.eppo.int/taxon/3MUSC",
+                            "children": [
+                                {
+                                    "text": "Brassica carinata",
+                                    "eppo": "BRSCA",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/BRSCA"
+                                },
+                                {
+                                    "text": "Brassica juncea",
+                                    "eppo": "BRSJU",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/BRSJU"
+                                },
+                                {
+                                    "text": "Brassica nigra",
+                                    "eppo": "BRSNI",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/BRSNI"
+                                },
+                                {
+                                    "text": "Sinapis alba",
+                                    "eppo": "SINAL",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/SINAL"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Brassica napus",
+                            "eppo": "BRSNN",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/BRSNN"
+                        },
+                        {
+                            "text": "Raphanus sativus subsp. oleiferus",
+                            "eppo": "RAPSO",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/RAPSO"
+                        },
+                        {
+                            "text": "turnip rape crops",
+                            "eppo": "3TURC",
+                            "taxo": "non-taxonomic",
+                            "url": "https://gd.eppo.int/taxon/3TURC",
+                            "children": [
+                                {
+                                    "text": "Brassica rapa",
+                                    "eppo": "BRSRR",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/BRSRR"
+                                },
+                                {
+                                    "text": "Brassica rapa subsp. oleifera",
+                                    "eppo": "BRSRO",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/BRSRO"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Cannabis sativa",
+                    "eppo": "CNISA",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/CNISA"
+                },
+                {
+                    "text": "Carthamus tinctorius",
+                    "eppo": "CAUTI",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/CAUTI"
+                },
+                {
+                    "text": "cereal crops",
+                    "eppo": "3CERC",
+                    "taxo": "non-taxonomic",
+                    "url": "https://gd.eppo.int/taxon/3CERC",
+                    "children": [
+                        {
+                            "text": "Hordeum vulgare",
+                            "eppo": "HORVX",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/HORVX"
+                        },
+                        {
+                            "text": "Avena sativa",
+                            "eppo": "AVESA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/AVESA"
+                        },
+                        {
+                            "text": "Secale cereale",
+                            "eppo": "SECCE",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/SECCE"
+                        },
+                        {
+                            "text": "Triticum spelta",
+                            "eppo": "TRZSP",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/TRZSP"
+                        },
+                        {
+                            "text": "x Triticosecale sp.",
+                            "eppo": "TTLSS",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/TTLSS"
+                        },
+                        {
+                            "text": "wheat crops",
+                            "eppo": "3WHEC",
+                            "taxo": "non-taxonomic",
+                            "url": "https://gd.eppo.int/taxon/3WHEC",
+                            "children": [
+                                {
+                                    "text": "Triticum durum",
+                                    "eppo": "TRZDU",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/TRZDU"
+                                },
+                                {
+                                    "text": "Triticum aestivum",
+                                    "eppo": "TRZAX",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/TRZAX"
+                                },
+                                {
+                                    "text": "Triticum dicoccon",
+                                    "eppo": "TRZDI",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/TRZDI"
+                                },
+                                {
+                                    "text": "Triticum monococcum",
+                                    "eppo": "TRZMO",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/TRZMO"
+                                },
+                                {
+                                    "text": "Triticum turanicum",
+                                    "eppo": "TRZTN",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/TRZTN"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "x Tritordeum sp.",
+                            "eppo": "TTOSS",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/TTOSS"
+                        }
+                    ]
+                },
+                {
+                    "text": "Chenopodium quinoa",
+                    "eppo": "CHEQU",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/CHEQU"
+                },
+                {
+                    "text": "Cichorium intybus var. sativum",
+                    "eppo": "CICIS",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/CICIS"
+                },
+                {
+                    "text": "Crambe hispanica subsp. abyssinica",
+                    "eppo": "CRMAB",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/CRMAB"
+                },
+                {
+                    "text": "Cucurbita pepo var. styriaca",
+                    "eppo": "CUUPO",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/CUUPO"
+                },
+                {
+                    "text": "Eragrostis tef",
+                    "eppo": "ERATF",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/ERATF"
+                },
+                {
+                    "text": "Euphorbia lathyris",
+                    "eppo": "EPHLA",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/EPHLA"
+                },
+                {
+                    "text": "Fagopyrum esculentum",
+                    "eppo": "FAGES",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/FAGES"
+                },
+                {
+                    "text": "Fagopyrum tataricum",
+                    "eppo": "FAGTA",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/FAGTA"
+                },
+                {
+                    "text": "grass crops",
+                    "eppo": "3GRAC",
+                    "taxo": "non-taxonomic",
+                    "url": "https://gd.eppo.int/taxon/3GRAC",
+                    "children": [
+                        {
+                            "text": "Agrostis capillaris",
+                            "eppo": "AGSTE",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/AGSTE"
+                        },
+                        {
+                            "text": "Alopecurus pratensis",
+                            "eppo": "ALOPR",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/ALOPR"
+                        },
+                        {
+                            "text": "Arrhenatherum elatius",
+                            "eppo": "ARREL",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/ARREL"
+                        },
+                        {
+                            "text": "Dactylis glomerata",
+                            "eppo": "DACGL",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/DACGL"
+                        },
+                        {
+                            "text": "fescue grasses",
+                            "eppo": "3FESC",
+                            "taxo": "non-taxonomic",
+                            "url": "https://gd.eppo.int/taxon/3FESC",
+                            "children": [
+                                {
+                                    "text": "Festuca ovina",
+                                    "eppo": "FESOV",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/FESOV"
+                                },
+                                {
+                                    "text": "Festuca rubra",
+                                    "eppo": "FESRU",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/FESRU"
+                                },
+                                {
+                                    "text": "Lolium arundinaceum",
+                                    "eppo": "FESAR",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/FESAR"
+                                },
+                                {
+                                    "text": "Lolium pratense",
+                                    "eppo": "FESPR",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/FESPR"
+                                },
+                                {
+                                    "text": "Lolium x elongatum",
+                                    "eppo": "FETAS",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/FETAS"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Miscanthus sp.",
+                            "eppo": "MISSS",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/MISSS"
+                        },
+                        {
+                            "text": "Phleum pratense",
+                            "eppo": "PHLPR",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/PHLPR"
+                        },
+                        {
+                            "text": "Phleum sp.",
+                            "eppo": "PHLSS",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/PHLSS"
+                        },
+                        {
+                            "text": "Poa pratensis",
+                            "eppo": "POAPR",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/POAPR"
+                        },
+                        {
+                            "text": "Poa sp.",
+                            "eppo": "POASS",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/POASS"
+                        },
+                        {
+                            "text": "ryegrasses",
+                            "eppo": "3RYGC",
+                            "taxo": "non-taxonomic",
+                            "url": "https://gd.eppo.int/taxon/3RYGC",
+                            "children": [
+                                {
+                                    "text": "Lolium multiflorum",
+                                    "eppo": "LOLMU",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/LOLMU"
+                                },
+                                {
+                                    "text": "Lolium multiflorum subsp. gaudini",
+                                    "eppo": "LOLMG",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/LOLMG"
+                                },
+                                {
+                                    "text": "Lolium perenne",
+                                    "eppo": "LOLPE",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/LOLPE"
+                                },
+                                {
+                                    "text": "Lolium x boucheanum",
+                                    "eppo": "LOLBO",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/LOLBO"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Thinopyrum obtusiflorum",
+                            "eppo": "ELYEP",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/ELYEP"
+                        },
+                        {
+                            "text": "Trisetum flavescens",
+                            "eppo": "TRXFL",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/TRXFL"
+                        }
+                    ]
+                },
+                {
+                    "text": "Helianthus annuus",
+                    "eppo": "HELAN",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/HELAN"
+                },
+                {
+                    "text": "Helianthus tuberosus",
+                    "eppo": "HELTU",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/HELTU"
+                },
+                {
+                    "text": "Hibiscus cannabinus",
+                    "eppo": "HIBCA",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/HIBCA"
+                },
+                {
+                    "text": "Humulus lupulus",
+                    "eppo": "HUMLU",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/HUMLU"
+                },
+                {
+                    "text": "Isatis tinctoria",
+                    "eppo": "ISATI",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/ISATI"
+                },
+                {
+                    "text": "legume crops",
+                    "eppo": "3LEGC",
+                    "taxo": "non-taxonomic",
+                    "url": "https://gd.eppo.int/taxon/3LEGC",
+                    "children": [
+                        {
+                            "text": "clover and bird's-foot trefoil crops",
+                            "eppo": "3CLOC",
+                            "taxo": "non-taxonomic",
+                            "url": "https://gd.eppo.int/taxon/3CLOC",
+                            "children": [
+                                {
+                                    "text": "Lotus sp.",
+                                    "eppo": "LOTSS",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/LOTSS"
+                                },
+                                {
+                                    "text": "Trifolium alexandrinum",
+                                    "eppo": "TRFAL",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/TRFAL"
+                                },
+                                {
+                                    "text": "Trifolium hybridum",
+                                    "eppo": "TRFHY",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/TRFHY"
+                                },
+                                {
+                                    "text": "Trifolium incarnatum",
+                                    "eppo": "TRFIN",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/TRFIN"
+                                },
+                                {
+                                    "text": "Trifolium pratense",
+                                    "eppo": "TRFPR",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/TRFPR"
+                                },
+                                {
+                                    "text": "Trifolium repens",
+                                    "eppo": "TRFRE",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/TRFRE"
+                                },
+                                {
+                                    "text": "Trifolium resupinatum",
+                                    "eppo": "TRFRS",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/TRFRS"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Glycine max",
+                            "eppo": "GLXMA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/GLXMA"
+                        },
+                        {
+                            "text": "lupin crops",
+                            "eppo": "3LUPC",
+                            "taxo": "non-taxonomic",
+                            "url": "https://gd.eppo.int/taxon/3LUPC",
+                            "children": [
+                                {
+                                    "text": "Lupinus albus",
+                                    "eppo": "LUPAL",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/LUPAL"
+                                },
+                                {
+                                    "text": "Lupinus angustifolius",
+                                    "eppo": "LUPAN",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/LUPAN"
+                                },
+                                {
+                                    "text": "Lupinus luteus",
+                                    "eppo": "LUPLU",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/LUPLU"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Medicago sativa",
+                            "eppo": "MEDSA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/MEDSA"
+                        },
+                        {
+                            "text": "Ornithopus sativus",
+                            "eppo": "OROSA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/OROSA"
+                        },
+                        {
+                            "text": "Pisum sativum subsp. arvense",
+                            "eppo": "PIBSA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/PIBSA"
+                        },
+                        {
+                            "text": "vetch crops",
+                            "eppo": "3VETC",
+                            "taxo": "non-taxonomic",
+                            "url": "https://gd.eppo.int/taxon/3VETC",
+                            "children": [
+                                {
+                                    "text": "Vicia faba subsp. minor",
+                                    "eppo": "VICFM",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/VICFM"
+                                },
+                                {
+                                    "text": "Vicia pannonica",
+                                    "eppo": "VICPA",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/VICPA"
+                                },
+                                {
+                                    "text": "Vicia sativa",
+                                    "eppo": "VICSA",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/VICSA"
+                                },
+                                {
+                                    "text": "Vicia villosa",
+                                    "eppo": "VICVI",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/VICVI"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Linum usitatissimum",
+                    "eppo": "LIUUT",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/LIUUT"
+                },
+                {
+                    "text": "maize and millet crops",
+                    "eppo": "3MAMC",
+                    "taxo": "non-taxonomic",
+                    "url": "https://gd.eppo.int/taxon/3MAMC",
+                    "children": [
+                        {
+                            "text": "millet crops",
+                            "eppo": "3MILC",
+                            "taxo": "non-taxonomic",
+                            "url": "https://gd.eppo.int/taxon/3MILC",
+                            "children": [
+                                {
+                                    "text": "Panicum miliaceum",
+                                    "eppo": "PANMI",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/PANMI"
+                                },
+                                {
+                                    "text": "Setaria italica",
+                                    "eppo": "SETIT",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/SETIT"
+                                },
+                                {
+                                    "text": "Sorghum bicolor",
+                                    "eppo": "SORVU",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/SORVU"
+                                },
+                                {
+                                    "text": "Sorghum x drummondii",
+                                    "eppo": "SORSU",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/SORSU"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Zea mays",
+                            "eppo": "ZEAMX",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/ZEAMX"
+                        }
+                    ]
+                },
+                {
+                    "text": "Nicotiana tabacum",
+                    "eppo": "NIOTA",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/NIOTA"
+                },
+                {
+                    "text": "Oryza sativa",
+                    "eppo": "ORYSA",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/ORYSA"
+                },
+                {
+                    "text": "Papaver somniferum",
+                    "eppo": "PAPSO",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/PAPSO"
+                },
+                {
+                    "text": "Phacelia tanacetifolia",
+                    "eppo": "PHCTA",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/PHCTA"
+                },
+                {
+                    "text": "Phalaris canariensis",
+                    "eppo": "PHACA",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/PHACA"
+                },
+                {
+                    "text": "Reseda luteola",
+                    "eppo": "RESLT",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/RESLT"
+                },
+                {
+                    "text": "Reynoutria sachalinensis",
+                    "eppo": "REYSA",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/REYSA"
+                },
+                {
+                    "text": "Saccharum officinarum",
+                    "eppo": "SACOF",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/SACOF"
+                },
+                {
+                    "text": "Sesamum indicum",
+                    "eppo": "SEGIN",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/SEGIN"
+                },
+                {
+                    "text": "Silphium perfoliatum",
+                    "eppo": "SIPPE",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/SIPPE"
+                },
+                {
+                    "text": "Solanum tuberosum",
+                    "eppo": "SOLTU",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/SOLTU"
+                },
+                {
+                    "text": "Taraxacum kok-saghyz",
+                    "eppo": "TARKS",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/TARKS"
+                }
+            ]
+        },
+        {
+            "text": "biomass trees",
+            "eppo": "3BMTC",
+            "taxo": "non-taxonomic",
+            "url": "https://gd.eppo.int/taxon/3BMTC",
+            "children": [
+                {
+                    "text": "Populus sp.",
+                    "eppo": "POPSS",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/POPSS"
+                },
+                {
+                    "text": "Salix sp.",
+                    "eppo": "SAXSS",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/SAXSS"
+                }
+            ]
+        },
+        {
+            "text": "coniferous forest trees",
+            "eppo": "3FOCC",
+            "taxo": "non-taxonomic",
+            "url": "https://gd.eppo.int/taxon/3FOCC"
+        },
+        {
+            "text": "fruit crops",
+            "eppo": "3FRUC",
+            "taxo": "non-taxonomic",
+            "url": "https://gd.eppo.int/taxon/3FRUC",
+            "children": [
+                {
+                    "text": "Actinidia arguta",
+                    "eppo": "ATIAR",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/ATIAR"
+                },
+                {
+                    "text": "Actinidia chinensis",
+                    "eppo": "ATICH",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/ATICH"
+                },
+                {
+                    "text": "Actinidia deliciosa",
+                    "eppo": "ATIDE",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/ATIDE"
+                },
+                {
+                    "text": "Amelanchier sp.",
+                    "eppo": "AMESS",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/AMESS"
+                },
+                {
+                    "text": "Ananas comosus",
+                    "eppo": "ANHCO",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/ANHCO"
+                },
+                {
+                    "text": "annona crops",
+                    "eppo": "3ANNC",
+                    "taxo": "non-taxonomic",
+                    "url": "https://gd.eppo.int/taxon/3ANNC",
+                    "children": [
+                        {
+                            "text": "Annona cherimola",
+                            "eppo": "ANUCH",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/ANUCH"
+                        },
+                        {
+                            "text": "Annona muricata",
+                            "eppo": "ANUMU",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/ANUMU"
+                        },
+                        {
+                            "text": "Annona reticulata",
+                            "eppo": "ANURE",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/ANURE"
+                        },
+                        {
+                            "text": "Annona squamosa",
+                            "eppo": "ANUSQ",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/ANUSQ"
+                        }
+                    ]
+                },
+                {
+                    "text": "Asimina triloba",
+                    "eppo": "ASITR",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/ASITR"
+                },
+                {
+                    "text": "Averrhoa carambola",
+                    "eppo": "AVRCA",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/AVRCA"
+                },
+                {
+                    "text": "Bactris gasipaes",
+                    "eppo": "BCTGA",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/BCTGA"
+                },
+                {
+                    "text": "Berberis vulgaris",
+                    "eppo": "BEBVU",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/BEBVU"
+                },
+                {
+                    "text": "Carica papaya",
+                    "eppo": "CIAPA",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/CIAPA"
+                },
+                {
+                    "text": "citrus fruit crops",
+                    "eppo": "3CITC",
+                    "taxo": "non-taxonomic",
+                    "url": "https://gd.eppo.int/taxon/3CITC",
+                    "children": [
+                        {
+                            "text": "Citrus maxima",
+                            "eppo": "CIDGR",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CIDGR"
+                        },
+                        {
+                            "text": "Citrus medica",
+                            "eppo": "CIDME",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CIDME"
+                        },
+                        {
+                            "text": "Citrus reticulata",
+                            "eppo": "CIDRE",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CIDRE"
+                        },
+                        {
+                            "text": "Citrus x aurantiifolia",
+                            "eppo": "CIDAF",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CIDAF"
+                        },
+                        {
+                            "text": "Citrus x aurantium var. paradisi",
+                            "eppo": "CIDPA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CIDPA"
+                        },
+                        {
+                            "text": "Citrus x aurantium var. sinensis",
+                            "eppo": "CIDSI",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CIDSI"
+                        },
+                        {
+                            "text": "Citrus x limon",
+                            "eppo": "CIDLI",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CIDLI"
+                        },
+                        {
+                            "text": "Fortunella japonica",
+                            "eppo": "FOLJA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/FOLJA"
+                        },
+                        {
+                            "text": "Fortunella margarita",
+                            "eppo": "FOLMA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/FOLMA"
+                        }
+                    ]
+                },
+                {
+                    "text": "Cocos nucifera",
+                    "eppo": "CCNNU",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/CCNNU"
+                },
+                {
+                    "text": "Diospyros kaki",
+                    "eppo": "DOSKA",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/DOSKA"
+                },
+                {
+                    "text": "Diospyros virginiana",
+                    "eppo": "DOSVI",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/DOSVI"
+                },
+                {
+                    "text": "Eriobotrya japonica",
+                    "eppo": "EIOJA",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/EIOJA"
+                },
+                {
+                    "text": "Eugenia uniflora",
+                    "eppo": "EUEUN",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/EUEUN"
+                },
+                {
+                    "text": "Euterpe oleracea",
+                    "eppo": "ETQOL",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/ETQOL"
+                },
+                {
+                    "text": "Ficus carica",
+                    "eppo": "FIUCA",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/FIUCA"
+                },
+                {
+                    "text": "Fragaria x ananassa",
+                    "eppo": "FRAAN",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/FRAAN"
+                },
+                {
+                    "text": "Litchi chinensis",
+                    "eppo": "LIHCH",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/LIHCH"
+                },
+                {
+                    "text": "Mangifera indica",
+                    "eppo": "MNGIN",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/MNGIN"
+                },
+                {
+                    "text": "Musa x paradisiaca",
+                    "eppo": "MUBPA",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/MUBPA"
+                },
+                {
+                    "text": "nut crops",
+                    "eppo": "3NUTC",
+                    "taxo": "non-taxonomic",
+                    "url": "https://gd.eppo.int/taxon/3NUTC",
+                    "children": [
+                        {
+                            "text": "Castanea sativa",
+                            "eppo": "CSNSA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CSNSA"
+                        },
+                        {
+                            "text": "corylus nuts",
+                            "eppo": "3CONC",
+                            "taxo": "non-taxonomic",
+                            "url": "https://gd.eppo.int/taxon/3CONC",
+                            "children": [
+                                {
+                                    "text": "Corylus avellana",
+                                    "eppo": "CYLAV",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/CYLAV"
+                                },
+                                {
+                                    "text": "Corylus maxima",
+                                    "eppo": "CYLMA",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/CYLMA"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Juglans regia",
+                            "eppo": "IUGRE",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/IUGRE"
+                        },
+                        {
+                            "text": "Pinus pinea",
+                            "eppo": "PIUPN",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/PIUPN"
+                        },
+                        {
+                            "text": "Pistacia vera",
+                            "eppo": "PIAVE",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/PIAVE"
+                        }
+                    ]
+                },
+                {
+                    "text": "Olea europaea",
+                    "eppo": "OLVEU",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/OLVEU"
+                },
+                {
+                    "text": "Passiflora edulis",
+                    "eppo": "PAQED",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/PAQED"
+                },
+                {
+                    "text": "Persea americana",
+                    "eppo": "PEBAM",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/PEBAM"
+                },
+                {
+                    "text": "pome fruit crops",
+                    "eppo": "3PMFC",
+                    "taxo": "non-taxonomic",
+                    "url": "https://gd.eppo.int/taxon/3PMFC",
+                    "children": [
+                        {
+                            "text": "Cydonia oblonga",
+                            "eppo": "CYDOB",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CYDOB"
+                        },
+                        {
+                            "text": "Malus domestica",
+                            "eppo": "MABSD",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/MABSD"
+                        },
+                        {
+                            "text": "Malus sylvestris",
+                            "eppo": "MABSY",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/MABSY"
+                        },
+                        {
+                            "text": "Mespilus germanica",
+                            "eppo": "MSPGE",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/MSPGE"
+                        },
+                        {
+                            "text": "Pyrus communis",
+                            "eppo": "PYUCO",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/PYUCO"
+                        },
+                        {
+                            "text": "Pyrus pyrifolia var. culta",
+                            "eppo": "PYUPC",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/PYUPC"
+                        }
+                    ]
+                },
+                {
+                    "text": "Psidium guajava",
+                    "eppo": "PSIGU",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/PSIGU"
+                },
+                {
+                    "text": "Punica granatum",
+                    "eppo": "PUNGR",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/PUNGR"
+                },
+                {
+                    "text": "Selenicereus undatus",
+                    "eppo": "HCRUN",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/HCRUN"
+                },
+                {
+                    "text": "small fruit crops",
+                    "eppo": "3SMFC",
+                    "taxo": "non-taxonomic",
+                    "url": "https://gd.eppo.int/taxon/3SMFC",
+                    "children": [
+                        {
+                            "text": "Aronia arbutifolia",
+                            "eppo": "ABOAR",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/ABOAR"
+                        },
+                        {
+                            "text": "Aronia melanocarpa",
+                            "eppo": "ABOME",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/ABOME"
+                        },
+                        {
+                            "text": "Aronia x prunifolia",
+                            "eppo": "ABOPR",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/ABOPR"
+                        },
+                        {
+                            "text": "Cornus mas",
+                            "eppo": "CRWMS",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CRWMS"
+                        },
+                        {
+                            "text": "Crataegus azarolus",
+                            "eppo": "CSCAZ",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CSCAZ"
+                        },
+                        {
+                            "text": "Crataegus laevigata",
+                            "eppo": "CSCOX",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CSCOX"
+                        },
+                        {
+                            "text": "Crataegus monogyna",
+                            "eppo": "CSCMO",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CSCMO"
+                        },
+                        {
+                            "text": "Hippophae rhamnoides",
+                            "eppo": "HIORH",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/HIORH"
+                        },
+                        {
+                            "text": "Lonicera caerulea",
+                            "eppo": "LONCO",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/LONCO"
+                        },
+                        {
+                            "text": "Lycium chinense",
+                            "eppo": "LYUCN",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/LYUCN"
+                        },
+                        {
+                            "text": "mulberry crops",
+                            "eppo": "3MULC",
+                            "taxo": "non-taxonomic",
+                            "url": "https://gd.eppo.int/taxon/3MULC",
+                            "children": [
+                                {
+                                    "text": "Morus alba",
+                                    "eppo": "MORAL",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/MORAL"
+                                },
+                                {
+                                    "text": "Morus nigra",
+                                    "eppo": "MORNI",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/MORNI"
+                                },
+                                {
+                                    "text": "Morus rubra",
+                                    "eppo": "MORRU",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/MORRU"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "ribes berry crops",
+                            "eppo": "3RIBC",
+                            "taxo": "non-taxonomic",
+                            "url": "https://gd.eppo.int/taxon/3RIBC",
+                            "children": [
+                                {
+                                    "text": "Ribes nigrum",
+                                    "eppo": "RIBNI",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/RIBNI"
+                                },
+                                {
+                                    "text": "Ribes rubrum",
+                                    "eppo": "RIBRU",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/RIBRU"
+                                },
+                                {
+                                    "text": "Ribes uva-crispa",
+                                    "eppo": "RIBUC",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/RIBUC"
+                                },
+                                {
+                                    "text": "Ribes x nidigrolaria",
+                                    "eppo": "RIBNG",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/RIBNG"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Rosa sp.",
+                            "eppo": "ROSSS",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/ROSSS"
+                        },
+                        {
+                            "text": "rubus berry crops",
+                            "eppo": "3RUBC",
+                            "taxo": "non-taxonomic",
+                            "url": "https://gd.eppo.int/taxon/3RUBC",
+                            "children": [
+                                {
+                                    "text": "Rubus flosculosus",
+                                    "eppo": "RUBFC",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/RUBFC"
+                                },
+                                {
+                                    "text": "Rubus fructicosus x Rubus idaeus",
+                                    "eppo": "RUBTY",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/RUBTY"
+                                },
+                                {
+                                    "text": "Rubus fruticosus",
+                                    "eppo": "RUBFR",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/RUBFR"
+                                },
+                                {
+                                    "text": "Rubus idaeus",
+                                    "eppo": "RUBID",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/RUBID"
+                                },
+                                {
+                                    "text": "Rubus phoenicolasius",
+                                    "eppo": "RUBPH",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/RUBPH"
+                                },
+                                {
+                                    "text": "Rubus ulmifolius",
+                                    "eppo": "RUBUL",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/RUBUL"
+                                },
+                                {
+                                    "text": "Rubus x loganobaccus",
+                                    "eppo": "RUBLO",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/RUBLO"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Sambucus nigra",
+                            "eppo": "SAMNI",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/SAMNI"
+                        },
+                        {
+                            "text": "Sorbus sp.",
+                            "eppo": "SOUSS",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/SOUSS"
+                        },
+                        {
+                            "text": "vaccinium berry crops",
+                            "eppo": "3VACC",
+                            "taxo": "non-taxonomic",
+                            "url": "https://gd.eppo.int/taxon/3VACC",
+                            "children": [
+                                {
+                                    "text": "Vaccinium corymbosum",
+                                    "eppo": "VACCO",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/VACCO"
+                                },
+                                {
+                                    "text": "Vaccinium macrocarpon",
+                                    "eppo": "VACMA",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/VACMA"
+                                },
+                                {
+                                    "text": "Vaccinium myrtillus",
+                                    "eppo": "VACMY",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/VACMY"
+                                },
+                                {
+                                    "text": "Vaccinium oxycoccos",
+                                    "eppo": "VACOX",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/VACOX"
+                                },
+                                {
+                                    "text": "Vaccinium vitis-idaea",
+                                    "eppo": "VACVI",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/VACVI"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "stone fruit crops",
+                    "eppo": "3STFC",
+                    "taxo": "non-taxonomic",
+                    "url": "https://gd.eppo.int/taxon/3STFC",
+                    "children": [
+                        {
+                            "text": "almond crops",
+                            "eppo": "3ALMC",
+                            "taxo": "non-taxonomic",
+                            "url": "https://gd.eppo.int/taxon/3ALMC",
+                            "children": [
+                                {
+                                    "text": "Prunus dulcis",
+                                    "eppo": "PRNDU",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/PRNDU"
+                                },
+                                {
+                                    "text": "Prunus dulcis var. amara",
+                                    "eppo": "PRNDA",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/PRNDA"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "plum crops",
+                            "eppo": "3PLUC",
+                            "taxo": "non-taxonomic",
+                            "url": "https://gd.eppo.int/taxon/3PLUC",
+                            "children": [
+                                {
+                                    "text": "Prunus damascena",
+                                    "eppo": "PRNDD",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/PRNDD"
+                                },
+                                {
+                                    "text": "Prunus domestica",
+                                    "eppo": "PRNDO",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/PRNDO"
+                                },
+                                {
+                                    "text": "Prunus domestica subsp. insititia",
+                                    "eppo": "PRNDT",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/PRNDT"
+                                },
+                                {
+                                    "text": "Prunus domestica subsp. italica",
+                                    "eppo": "PRNDI",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/PRNDI"
+                                },
+                                {
+                                    "text": "Prunus domestica subsp. syriaca",
+                                    "eppo": "PRNDS",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/PRNDS"
+                                },
+                                {
+                                    "text": "Prunus salicina",
+                                    "eppo": "PRNSC",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/PRNSC"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Prunus armeniaca",
+                            "eppo": "PRNAR",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/PRNAR"
+                        },
+                        {
+                            "text": "Prunus avium",
+                            "eppo": "PRNAV",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/PRNAV"
+                        },
+                        {
+                            "text": "Prunus cerasus",
+                            "eppo": "PRNCE",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/PRNCE"
+                        },
+                        {
+                            "text": "Prunus persica",
+                            "eppo": "PRNPS",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/PRNPS"
+                        },
+                        {
+                            "text": "Prunus persica var. nucipersica",
+                            "eppo": "PRNPN",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/PRNPN"
+                        },
+                        {
+                            "text": "Prunus spinosa",
+                            "eppo": "PRNSN",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/PRNSN"
+                        }
+                    ]
+                },
+                {
+                    "text": "Vitis vinifera",
+                    "eppo": "VITVI",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/VITVI"
+                }
+            ]
+        },
+        {
+            "text": "grassland",
+            "eppo": "3GRLC",
+            "taxo": "non-taxonomic",
+            "url": "https://gd.eppo.int/taxon/3GRLC",
+            "children": [
+                {
+                    "text": "permanent grassland",
+                    "eppo": "3PGLC",
+                    "taxo": "non-taxonomic",
+                    "url": "https://gd.eppo.int/taxon/3PGLC",
+                    "children": []
+                },
+                {
+                    "text": "rotational grassland",
+                    "eppo": "3RGRC",
+                    "taxo": "non-taxonomic",
+                    "url": "https://gd.eppo.int/taxon/3RGRC",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "text": "herbs, spices and medicinal crops",
+            "eppo": "3HSMC",
+            "taxo": "non-taxonomic",
+            "url": "https://gd.eppo.int/taxon/3HSMC",
+            "children": [
+                {
+                    "text": "herb crops",
+                    "eppo": "3HERC",
+                    "taxo": "non-taxonomic",
+                    "url": "https://gd.eppo.int/taxon/3HERC",
+                    "children": [
+                        {
+                            "text": "Achillea millefolium",
+                            "eppo": "ACHMI",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/ACHMI"
+                        },
+                        {
+                            "text": "Agastache foeniculum",
+                            "eppo": "AJTFO",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/AJTFO"
+                        },
+                        {
+                            "text": "Agastache sp.",
+                            "eppo": "AJTSS",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/AJTSS"
+                        },
+                        {
+                            "text": "Allium schoenoprasum",
+                            "eppo": "ALLSC",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/ALLSC"
+                        },
+                        {
+                            "text": "Allium ursinum",
+                            "eppo": "ALLUR",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/ALLUR"
+                        },
+                        {
+                            "text": "Anethum graveolens",
+                            "eppo": "AFEGR",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/AFEGR"
+                        },
+                        {
+                            "text": "Anthriscus cerefolium",
+                            "eppo": "ANRCE",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/ANRCE"
+                        },
+                        {
+                            "text": "Apium graveolens var. secalinum",
+                            "eppo": "APUGS",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/APUGS"
+                        },
+                        {
+                            "text": "Borago officinalis",
+                            "eppo": "BOROF",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/BOROF"
+                        },
+                        {
+                            "text": "burnet herb crops",
+                            "eppo": "3BURC",
+                            "taxo": "non-taxonomic",
+                            "url": "https://gd.eppo.int/taxon/3BURC",
+                            "children": [
+                                {
+                                    "text": "Sanguisorba minor",
+                                    "eppo": "SANMI",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/SANMI"
+                                },
+                                {
+                                    "text": "Sanguisorba officinalis",
+                                    "eppo": "SANOF",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/SANOF"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Calendula officinalis",
+                            "eppo": "CLDOF",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CLDOF"
+                        },
+                        {
+                            "text": "Camellia sinensis",
+                            "eppo": "CAHSI",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CAHSI"
+                        },
+                        {
+                            "text": "Centaurea cyanus",
+                            "eppo": "CENCY",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CENCY"
+                        },
+                        {
+                            "text": "chamomille herb crops",
+                            "eppo": "3CHAC",
+                            "taxo": "non-taxonomic",
+                            "url": "https://gd.eppo.int/taxon/3CHAC",
+                            "children": [
+                                {
+                                    "text": "Chamaemelum nobile",
+                                    "eppo": "ANTNO",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/ANTNO"
+                                },
+                                {
+                                    "text": "Cota tinctoria",
+                                    "eppo": "ANTTI",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/ANTTI"
+                                },
+                                {
+                                    "text": "Matricaria chamomilla",
+                                    "eppo": "MATCH",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/MATCH"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Coriandrum sativum",
+                            "eppo": "CORSA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CORSA"
+                        },
+                        {
+                            "text": "Dracocephalum moldavica",
+                            "eppo": "DRAMO",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/DRAMO"
+                        },
+                        {
+                            "text": "Equisetum arvense",
+                            "eppo": "EQUAR",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/EQUAR"
+                        },
+                        {
+                            "text": "Equisetum sp.",
+                            "eppo": "EQUSS",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/EQUSS"
+                        },
+                        {
+                            "text": "Foeniculum vulgare",
+                            "eppo": "FOEVU",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/FOEVU"
+                        },
+                        {
+                            "text": "Foeniculum vulgare var. dulce",
+                            "eppo": "FOEVD",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/FOEVD"
+                        },
+                        {
+                            "text": "Galium odoratum",
+                            "eppo": "GALOD",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/GALOD"
+                        },
+                        {
+                            "text": "Glebionis coronaria",
+                            "eppo": "CHYCO",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CHYCO"
+                        },
+                        {
+                            "text": "Hippophae rhamnoides",
+                            "eppo": "HIORH",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/HIORH"
+                        },
+                        {
+                            "text": "Hypericum perforatum",
+                            "eppo": "HYPPE",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/HYPPE"
+                        },
+                        {
+                            "text": "Hypericum sp.",
+                            "eppo": "HYPSS",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/HYPSS"
+                        },
+                        {
+                            "text": "Hyssopus officinalis",
+                            "eppo": "HYSOF",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/HYSOF"
+                        },
+                        {
+                            "text": "Lavandula angustifolia",
+                            "eppo": "LAVAN",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/LAVAN"
+                        },
+                        {
+                            "text": "Levisticum officinale",
+                            "eppo": "LEWOF",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/LEWOF"
+                        },
+                        {
+                            "text": "Macleaya cordata",
+                            "eppo": "MCYCO",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/MCYCO"
+                        },
+                        {
+                            "text": "Malva sylvestris",
+                            "eppo": "MALSI",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/MALSI"
+                        },
+                        {
+                            "text": "Malva verticillata",
+                            "eppo": "MALVE",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/MALVE"
+                        },
+                        {
+                            "text": "Melilotus officinalis",
+                            "eppo": "MEUOF",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/MEUOF"
+                        },
+                        {
+                            "text": "Melissa officinalis",
+                            "eppo": "MLSOF",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/MLSOF"
+                        },
+                        {
+                            "text": "mint herb crops",
+                            "eppo": "3MINC",
+                            "taxo": "non-taxonomic",
+                            "url": "https://gd.eppo.int/taxon/3MINC",
+                            "children": [
+                                {
+                                    "text": "Mentha aquatica",
+                                    "eppo": "MENAQ",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/MENAQ"
+                                },
+                                {
+                                    "text": "Mentha arvensis",
+                                    "eppo": "MENAR",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/MENAR"
+                                },
+                                {
+                                    "text": "Mentha longifolia",
+                                    "eppo": "MENLO",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/MENLO"
+                                },
+                                {
+                                    "text": "Mentha spicata",
+                                    "eppo": "MENSP",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/MENSP"
+                                },
+                                {
+                                    "text": "Mentha spicata var. crispa",
+                                    "eppo": "MENSC",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/MENSC"
+                                },
+                                {
+                                    "text": "Mentha suaveolens",
+                                    "eppo": "MENSU",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/MENSU"
+                                },
+                                {
+                                    "text": "Mentha x gentilis",
+                                    "eppo": "MENGE",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/MENGE"
+                                },
+                                {
+                                    "text": "Mentha x piperita",
+                                    "eppo": "MENPI",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/MENPI"
+                                },
+                                {
+                                    "text": "Mentha x rotundifolia",
+                                    "eppo": "MENRO",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/MENRO"
+                                },
+                                {
+                                    "text": "Mentha x verticillata",
+                                    "eppo": "MENVE",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/MENVE"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "nettle herb crops",
+                            "eppo": "3NETC",
+                            "taxo": "non-taxonomic",
+                            "url": "https://gd.eppo.int/taxon/3NETC",
+                            "children": [
+                                {
+                                    "text": "Urtica dioica",
+                                    "eppo": "URTDI",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/URTDI"
+                                },
+                                {
+                                    "text": "Urtica urens",
+                                    "eppo": "URTUR",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/URTUR"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Ocimum basilicum",
+                            "eppo": "OCIBA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/OCIBA"
+                        },
+                        {
+                            "text": "Ocimum sp.",
+                            "eppo": "OCISS",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/OCISS"
+                        },
+                        {
+                            "text": "Origanum majorana",
+                            "eppo": "MAJHO",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/MAJHO"
+                        },
+                        {
+                            "text": "Origanum vulgare",
+                            "eppo": "ORIVU",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/ORIVU"
+                        },
+                        {
+                            "text": "pelargonium herb crops",
+                            "eppo": "3PELC",
+                            "taxo": "non-taxonomic",
+                            "url": "https://gd.eppo.int/taxon/3PELC",
+                            "children": [
+                                {
+                                    "text": "Pelargonium crispum",
+                                    "eppo": "PELCI",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/PELCI"
+                                },
+                                {
+                                    "text": "Pelargonium graveolens",
+                                    "eppo": "PELGV",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/PELGV"
+                                },
+                                {
+                                    "text": "Pelargonium odoratissimum",
+                                    "eppo": "PELOD",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/PELOD"
+                                },
+                                {
+                                    "text": "Pelargonium tomentosum",
+                                    "eppo": "PELTO",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/PELTO"
+                                },
+                                {
+                                    "text": "Pelargonium x fragrans",
+                                    "eppo": "PELFR",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/PELFR"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Petroselinum crispum",
+                            "eppo": "PARCR",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/PARCR"
+                        },
+                        {
+                            "text": "Pimpinella saxifraga",
+                            "eppo": "PIMSA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/PIMSA"
+                        },
+                        {
+                            "text": "Plantago lanceolata",
+                            "eppo": "PLALA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/PLALA"
+                        },
+                        {
+                            "text": "Ribes nigrum",
+                            "eppo": "RIBNI",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/RIBNI"
+                        },
+                        {
+                            "text": "Rosa sp.",
+                            "eppo": "ROSSS",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/ROSSS"
+                        },
+                        {
+                            "text": "Rumex acetosa",
+                            "eppo": "RUMAC",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/RUMAC"
+                        },
+                        {
+                            "text": "Salvia officinalis",
+                            "eppo": "SALOF",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/SALOF"
+                        },
+                        {
+                            "text": "Salvia rosmarinus",
+                            "eppo": "RMSOF",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/RMSOF"
+                        },
+                        {
+                            "text": "Salvia sclarea",
+                            "eppo": "SALSC",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/SALSC"
+                        },
+                        {
+                            "text": "Sambucus nigra",
+                            "eppo": "SAMNI",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/SAMNI"
+                        },
+                        {
+                            "text": "Satureja hortensis",
+                            "eppo": "STIHO",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/STIHO"
+                        },
+                        {
+                            "text": "Satureja montana",
+                            "eppo": "STIMO",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/STIMO"
+                        },
+                        {
+                            "text": "Stevia rebaudiana",
+                            "eppo": "SVARE",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/SVARE"
+                        },
+                        {
+                            "text": "Tanacetum parthenium",
+                            "eppo": "CHYPA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CHYPA"
+                        },
+                        {
+                            "text": "Thymus vulgaris",
+                            "eppo": "THYVU",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/THYVU"
+                        },
+                        {
+                            "text": "Trifolium pratense",
+                            "eppo": "TRFPR",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/TRFPR"
+                        },
+                        {
+                            "text": "Trigonella caerulea",
+                            "eppo": "TRKMC",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/TRKMC"
+                        },
+                        {
+                            "text": "Trigonella foenum-graecum",
+                            "eppo": "TRKFG",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/TRKFG"
+                        },
+                        {
+                            "text": "Tropaeolum majus",
+                            "eppo": "TOPMA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/TOPMA"
+                        },
+                        {
+                            "text": "Valeriana officinalis",
+                            "eppo": "VALOF",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/VALOF"
+                        },
+                        {
+                            "text": "Verbascum sp.",
+                            "eppo": "VESSS",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/VESSS"
+                        },
+                        {
+                            "text": "wormwood herb crops",
+                            "eppo": "3WORC",
+                            "taxo": "non-taxonomic",
+                            "url": "https://gd.eppo.int/taxon/3WORC",
+                            "children": [
+                                {
+                                    "text": "Artemisia abrotanum",
+                                    "eppo": "ARTAT",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/ARTAT"
+                                },
+                                {
+                                    "text": "Artemisia absinthium",
+                                    "eppo": "ARTAB",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/ARTAB"
+                                },
+                                {
+                                    "text": "Artemisia dracunculus",
+                                    "eppo": "ARTDR",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/ARTDR"
+                                },
+                                {
+                                    "text": "Artemisia vulgaris",
+                                    "eppo": "ARTVU",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/ARTVU"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "medicinal crops",
+                    "eppo": "3MEDC",
+                    "taxo": "non-taxonomic",
+                    "url": "https://gd.eppo.int/taxon/3MEDC",
+                    "children": [
+                        {
+                            "text": "Achillea millefolium",
+                            "eppo": "ACHMI",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/ACHMI"
+                        },
+                        {
+                            "text": "Acorus calamus",
+                            "eppo": "ACSCA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/ACSCA"
+                        },
+                        {
+                            "text": "Actaea racemosa",
+                            "eppo": "AATRA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/AATRA"
+                        },
+                        {
+                            "text": "Agrimonia eupatoria",
+                            "eppo": "AGIEU",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/AGIEU"
+                        },
+                        {
+                            "text": "Alchemilla xanthochlora",
+                            "eppo": "ALCVU",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/ALCVU"
+                        },
+                        {
+                            "text": "Allium sativum",
+                            "eppo": "ALLSA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/ALLSA"
+                        },
+                        {
+                            "text": "Althaea officinalis",
+                            "eppo": "ALGOF",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/ALGOF"
+                        },
+                        {
+                            "text": "Angelica archangelica",
+                            "eppo": "ANKAR",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/ANKAR"
+                        },
+                        {
+                            "text": "Arctium lappa",
+                            "eppo": "ARFLA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/ARFLA"
+                        },
+                        {
+                            "text": "Armoracia rusticana",
+                            "eppo": "ARWLA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/ARWLA"
+                        },
+                        {
+                            "text": "Arnica montana",
+                            "eppo": "ARXMO",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/ARXMO"
+                        },
+                        {
+                            "text": "Atropa belladonna",
+                            "eppo": "ATRBE",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/ATRBE"
+                        },
+                        {
+                            "text": "Bellis perennis",
+                            "eppo": "BELPE",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/BELPE"
+                        },
+                        {
+                            "text": "Calendula officinalis",
+                            "eppo": "CLDOF",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CLDOF"
+                        },
+                        {
+                            "text": "Cannabis sativa",
+                            "eppo": "CNISA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CNISA"
+                        },
+                        {
+                            "text": "Capsella bursa-pastoris",
+                            "eppo": "CAPBP",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CAPBP"
+                        },
+                        {
+                            "text": "Cardiospermum halicacabum",
+                            "eppo": "CRIHA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CRIHA"
+                        },
+                        {
+                            "text": "Carum carvi",
+                            "eppo": "CRYCA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CRYCA"
+                        },
+                        {
+                            "text": "Centaurea benedicta",
+                            "eppo": "CXDBE",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CXDBE"
+                        },
+                        {
+                            "text": "Centaurea cyanus",
+                            "eppo": "CENCY",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CENCY"
+                        },
+                        {
+                            "text": "chamomille medicinal crops",
+                            "eppo": "3CHMC",
+                            "taxo": "non-taxonomic",
+                            "url": "https://gd.eppo.int/taxon/3CHMC",
+                            "children": [
+                                {
+                                    "text": "Chamaemelum nobile",
+                                    "eppo": "ANTNO",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/ANTNO"
+                                },
+                                {
+                                    "text": "Cota tinctoria",
+                                    "eppo": "ANTTI",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/ANTTI"
+                                },
+                                {
+                                    "text": "Matricaria chamomilla",
+                                    "eppo": "MATCH",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/MATCH"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Chelidonium majus",
+                            "eppo": "CHQMA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CHQMA"
+                        },
+                        {
+                            "text": "Cichorium intybus",
+                            "eppo": "CICIN",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CICIN"
+                        },
+                        {
+                            "text": "Cichorium intybus var. foliosum",
+                            "eppo": "CICIF",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CICIF"
+                        },
+                        {
+                            "text": "Citrullus colocynthis",
+                            "eppo": "CITCO",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CITCO"
+                        },
+                        {
+                            "text": "Cochlearia officinalis",
+                            "eppo": "CCLOF",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CCLOF"
+                        },
+                        {
+                            "text": "Coriandrum sativum",
+                            "eppo": "CORSA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CORSA"
+                        },
+                        {
+                            "text": "Crataegus laevigata",
+                            "eppo": "CSCOX",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CSCOX"
+                        },
+                        {
+                            "text": "Crataegus monogyna",
+                            "eppo": "CSCMO",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CSCMO"
+                        },
+                        {
+                            "text": "Cucurbita pepo var. styriaca",
+                            "eppo": "CUUPO",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CUUPO"
+                        },
+                        {
+                            "text": "Curcuma longa",
+                            "eppo": "CURLO",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CURLO"
+                        },
+                        {
+                            "text": "Cynara scolymus",
+                            "eppo": "CYUSC",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CYUSC"
+                        },
+                        {
+                            "text": "echinacea medicinal crops",
+                            "eppo": "3ECHC",
+                            "taxo": "non-taxonomic",
+                            "url": "https://gd.eppo.int/taxon/3ECHC",
+                            "children": [
+                                {
+                                    "text": "Echinacea angustifolia",
+                                    "eppo": "ECEAN",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/ECEAN"
+                                },
+                                {
+                                    "text": "Echinacea pallida",
+                                    "eppo": "ECEPA",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/ECEPA"
+                                },
+                                {
+                                    "text": "Echinacea purpurea",
+                                    "eppo": "RUDPU",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/RUDPU"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Elymus repens",
+                            "eppo": "AGRRE",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/AGRRE"
+                        },
+                        {
+                            "text": "Epilobium sp.",
+                            "eppo": "EPISS",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/EPISS"
+                        },
+                        {
+                            "text": "Equisetum sp.",
+                            "eppo": "EQUSS",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/EQUSS"
+                        },
+                        {
+                            "text": "Fagopyrum esculentum",
+                            "eppo": "FAGES",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/FAGES"
+                        },
+                        {
+                            "text": "Foeniculum vulgare",
+                            "eppo": "FOEVU",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/FOEVU"
+                        },
+                        {
+                            "text": "Foeniculum vulgare var. dulce",
+                            "eppo": "FOEVD",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/FOEVD"
+                        },
+                        {
+                            "text": "foxglove medicinal crops",
+                            "eppo": "3FOXC",
+                            "taxo": "non-taxonomic",
+                            "url": "https://gd.eppo.int/taxon/3FOXC",
+                            "children": [
+                                {
+                                    "text": "Digitalis lanata",
+                                    "eppo": "DIKLA",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/DIKLA"
+                                },
+                                {
+                                    "text": "Digitalis purpurea",
+                                    "eppo": "DIKPU",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/DIKPU"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Fumaria officinalis",
+                            "eppo": "FUMOF",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/FUMOF"
+                        },
+                        {
+                            "text": "Gentiana lutea",
+                            "eppo": "GETLU",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/GETLU"
+                        },
+                        {
+                            "text": "Ginkgo biloba",
+                            "eppo": "GIKBI",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/GIKBI"
+                        },
+                        {
+                            "text": "ginseng medicinal crops",
+                            "eppo": "3GINC",
+                            "taxo": "non-taxonomic",
+                            "url": "https://gd.eppo.int/taxon/3GINC",
+                            "children": [
+                                {
+                                    "text": "Panax ginseng",
+                                    "eppo": "PNXGI",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/PNXGI"
+                                },
+                                {
+                                    "text": "Panax quinquefolius",
+                                    "eppo": "PNXQU",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/PNXQU"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Glycyrrhiza glabra",
+                            "eppo": "GYCGL",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/GYCGL"
+                        },
+                        {
+                            "text": "Hamamelis virginiana",
+                            "eppo": "HAMVI",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/HAMVI"
+                        },
+                        {
+                            "text": "Helianthus tuberosus",
+                            "eppo": "HELTU",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/HELTU"
+                        },
+                        {
+                            "text": "Hippophae rhamnoides",
+                            "eppo": "HIORH",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/HIORH"
+                        },
+                        {
+                            "text": "Humulus lupulus",
+                            "eppo": "HUMLU",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/HUMLU"
+                        },
+                        {
+                            "text": "Hylotelephium telephium",
+                            "eppo": "SEDTE",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/SEDTE"
+                        },
+                        {
+                            "text": "Hypericum perforatum",
+                            "eppo": "HYPPE",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/HYPPE"
+                        },
+                        {
+                            "text": "Hypericum sp.",
+                            "eppo": "HYPSS",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/HYPSS"
+                        },
+                        {
+                            "text": "Hyssopus officinalis",
+                            "eppo": "HYSOF",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/HYSOF"
+                        },
+                        {
+                            "text": "Inula helenium",
+                            "eppo": "INUHE",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/INUHE"
+                        },
+                        {
+                            "text": "Jacobaea maritima",
+                            "eppo": "SENBI",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/SENBI"
+                        },
+                        {
+                            "text": "Juglans regia",
+                            "eppo": "IUGRE",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/IUGRE"
+                        },
+                        {
+                            "text": "Leonurus cardiaca",
+                            "eppo": "LECCA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/LECCA"
+                        },
+                        {
+                            "text": "Levisticum officinale",
+                            "eppo": "LEWOF",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/LEWOF"
+                        },
+                        {
+                            "text": "Linum usitatissimum",
+                            "eppo": "LIUUT",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/LIUUT"
+                        },
+                        {
+                            "text": "Lycopus virginicus",
+                            "eppo": "LYAVI",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/LYAVI"
+                        },
+                        {
+                            "text": "Malva sylvestris",
+                            "eppo": "MALSI",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/MALSI"
+                        },
+                        {
+                            "text": "Marrubium vulgare",
+                            "eppo": "MAQVU",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/MAQVU"
+                        },
+                        {
+                            "text": "Melilotus officinalis",
+                            "eppo": "MEUOF",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/MEUOF"
+                        },
+                        {
+                            "text": "Melissa officinalis",
+                            "eppo": "MLSOF",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/MLSOF"
+                        },
+                        {
+                            "text": "mint medicinal crops",
+                            "eppo": "3MIMC",
+                            "taxo": "non-taxonomic",
+                            "url": "https://gd.eppo.int/taxon/3MIMC",
+                            "children": [
+                                {
+                                    "text": "Mentha spicata",
+                                    "eppo": "MENSP",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/MENSP"
+                                },
+                                {
+                                    "text": "Mentha spicata var. crispa",
+                                    "eppo": "MENSC",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/MENSC"
+                                },
+                                {
+                                    "text": "Mentha x piperita",
+                                    "eppo": "MENPI",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/MENPI"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "nettle medicinal crops",
+                            "eppo": "3NEMC",
+                            "taxo": "non-taxonomic",
+                            "url": "https://gd.eppo.int/taxon/3NEMC",
+                            "children": [
+                                {
+                                    "text": "Urtica dioica",
+                                    "eppo": "URTDI",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/URTDI"
+                                },
+                                {
+                                    "text": "Urtica urens",
+                                    "eppo": "URTUR",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/URTUR"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Oenothera biennis",
+                            "eppo": "OEOBI",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/OEOBI"
+                        },
+                        {
+                            "text": "Ononis spinosa",
+                            "eppo": "ONOSP",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/ONOSP"
+                        },
+                        {
+                            "text": "Origanum vulgare",
+                            "eppo": "ORIVU",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/ORIVU"
+                        },
+                        {
+                            "text": "Paeonia officinalis",
+                            "eppo": "PAOOF",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/PAOOF"
+                        },
+                        {
+                            "text": "Papaver somniferum",
+                            "eppo": "PAPSO",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/PAPSO"
+                        },
+                        {
+                            "text": "Petasites hybridus",
+                            "eppo": "PEDHY",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/PEDHY"
+                        },
+                        {
+                            "text": "Petroselinum crispum",
+                            "eppo": "PARCR",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/PARCR"
+                        },
+                        {
+                            "text": "Petroselinum crispum var. tuberosum",
+                            "eppo": "PARCT",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/PARCT"
+                        },
+                        {
+                            "text": "Peucedanum ostruthium",
+                            "eppo": "PCDOS",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/PCDOS"
+                        },
+                        {
+                            "text": "Pimpinella anisum",
+                            "eppo": "PIMAN",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/PIMAN"
+                        },
+                        {
+                            "text": "Pimpinella saxifraga",
+                            "eppo": "PIMSA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/PIMSA"
+                        },
+                        {
+                            "text": "Plantago afra",
+                            "eppo": "PLAAF",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/PLAAF"
+                        },
+                        {
+                            "text": "Plantago lanceolata",
+                            "eppo": "PLALA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/PLALA"
+                        },
+                        {
+                            "text": "Potentilla anserina",
+                            "eppo": "PTLAN",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/PTLAN"
+                        },
+                        {
+                            "text": "Primula elatior",
+                            "eppo": "PRIEL",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/PRIEL"
+                        },
+                        {
+                            "text": "Primula veris",
+                            "eppo": "PRIVE",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/PRIVE"
+                        },
+                        {
+                            "text": "Rheum palmatum",
+                            "eppo": "RHEPA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/RHEPA"
+                        },
+                        {
+                            "text": "Rhodiola rosea",
+                            "eppo": "RDORO",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/RDORO"
+                        },
+                        {
+                            "text": "Ribes nigrum",
+                            "eppo": "RIBNI",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/RIBNI"
+                        },
+                        {
+                            "text": "Rubia tinctorum",
+                            "eppo": "RBITI",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/RBITI"
+                        },
+                        {
+                            "text": "Rubus idaeus",
+                            "eppo": "RUBID",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/RUBID"
+                        },
+                        {
+                            "text": "Rumex crispus",
+                            "eppo": "RUMCR",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/RUMCR"
+                        },
+                        {
+                            "text": "Ruta graveolens",
+                            "eppo": "RUAGR",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/RUAGR"
+                        },
+                        {
+                            "text": "Salix sp.",
+                            "eppo": "SAXSS",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/SAXSS"
+                        },
+                        {
+                            "text": "Salvia officinalis",
+                            "eppo": "SALOF",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/SALOF"
+                        },
+                        {
+                            "text": "Salvia rosmarinus",
+                            "eppo": "RMSOF",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/RMSOF"
+                        },
+                        {
+                            "text": "Salvia sclarea",
+                            "eppo": "SALSC",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/SALSC"
+                        },
+                        {
+                            "text": "Sambucus nigra",
+                            "eppo": "SAMNI",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/SAMNI"
+                        },
+                        {
+                            "text": "Saxifraga granulata",
+                            "eppo": "SXFGL",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/SXFGL"
+                        },
+                        {
+                            "text": "Silybum marianum",
+                            "eppo": "SLYMA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/SLYMA"
+                        },
+                        {
+                            "text": "Solanum dulcamara",
+                            "eppo": "SOLDU",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/SOLDU"
+                        },
+                        {
+                            "text": "Solidago virgaurea",
+                            "eppo": "SOOVI",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/SOOVI"
+                        },
+                        {
+                            "text": "Symphytum officinale",
+                            "eppo": "SYMOF",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/SYMOF"
+                        },
+                        {
+                            "text": "Tanacetum parthenium",
+                            "eppo": "CHYPA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CHYPA"
+                        },
+                        {
+                            "text": "Taraxacum officinale",
+                            "eppo": "TAROF",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/TAROF"
+                        },
+                        {
+                            "text": "Taraxacum sp.",
+                            "eppo": "TARSS",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/TARSS"
+                        },
+                        {
+                            "text": "Thymus vulgaris",
+                            "eppo": "THYVU",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/THYVU"
+                        },
+                        {
+                            "text": "Tilia sp.",
+                            "eppo": "TILSS",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/TILSS"
+                        },
+                        {
+                            "text": "Trigonella foenum-graecum",
+                            "eppo": "TRKFG",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/TRKFG"
+                        },
+                        {
+                            "text": "Tropaeolum majus",
+                            "eppo": "TOPMA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/TOPMA"
+                        },
+                        {
+                            "text": "Tussilago farfara",
+                            "eppo": "TUSFA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/TUSFA"
+                        },
+                        {
+                            "text": "Valeriana officinalis",
+                            "eppo": "VALOF",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/VALOF"
+                        },
+                        {
+                            "text": "Verbascum sp.",
+                            "eppo": "VESSS",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/VESSS"
+                        },
+                        {
+                            "text": "Veronica sp.",
+                            "eppo": "VERSS",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/VERSS"
+                        },
+                        {
+                            "text": "Viola arvensis",
+                            "eppo": "VIOAR",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/VIOAR"
+                        },
+                        {
+                            "text": "Vitex agnus-castus",
+                            "eppo": "VIXAC",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/VIXAC"
+                        },
+                        {
+                            "text": "wormwood medicinal crops",
+                            "eppo": "3WOMC",
+                            "taxo": "non-taxonomic",
+                            "url": "https://gd.eppo.int/taxon/3WOMC",
+                            "children": [
+                                {
+                                    "text": "Artemisia abrotanum",
+                                    "eppo": "ARTAT",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/ARTAT"
+                                },
+                                {
+                                    "text": "Artemisia absinthium",
+                                    "eppo": "ARTAB",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/ARTAB"
+                                },
+                                {
+                                    "text": "Artemisia dracunculus",
+                                    "eppo": "ARTDR",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/ARTDR"
+                                },
+                                {
+                                    "text": "Artemisia vulgaris",
+                                    "eppo": "ARTVU",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/ARTVU"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "spice crops",
+                    "eppo": "3SPIC",
+                    "taxo": "non-taxonomic",
+                    "url": "https://gd.eppo.int/taxon/3SPIC",
+                    "children": [
+                        {
+                            "text": "Anethum graveolens",
+                            "eppo": "AFEGR",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/AFEGR"
+                        },
+                        {
+                            "text": "Apium graveolens var. secalinum",
+                            "eppo": "APUGS",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/APUGS"
+                        },
+                        {
+                            "text": "Carum carvi",
+                            "eppo": "CRYCA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CRYCA"
+                        },
+                        {
+                            "text": "Coriandrum sativum",
+                            "eppo": "CORSA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CORSA"
+                        },
+                        {
+                            "text": "Foeniculum vulgare",
+                            "eppo": "FOEVU",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/FOEVU"
+                        },
+                        {
+                            "text": "Foeniculum vulgare var. dulce",
+                            "eppo": "FOEVD",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/FOEVD"
+                        },
+                        {
+                            "text": "Juniperus communis",
+                            "eppo": "IUPCO",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/IUPCO"
+                        },
+                        {
+                            "text": "Levisticum officinale",
+                            "eppo": "LEWOF",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/LEWOF"
+                        },
+                        {
+                            "text": "Nigella sativa",
+                            "eppo": "NIGSA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/NIGSA"
+                        },
+                        {
+                            "text": "Petroselinum crispum",
+                            "eppo": "PARCR",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/PARCR"
+                        },
+                        {
+                            "text": "Pimpinella anisum",
+                            "eppo": "PIMAN",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/PIMAN"
+                        },
+                        {
+                            "text": "Sinapis alba",
+                            "eppo": "SINAL",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/SINAL"
+                        },
+                        {
+                            "text": "Trigonella caerulea",
+                            "eppo": "TRKMC",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/TRKMC"
+                        },
+                        {
+                            "text": "Trigonella foenum-graecum",
+                            "eppo": "TRKFG",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/TRKFG"
+                        },
+                        {
+                            "text": "Vanilla planifolia",
+                            "eppo": "VANPL",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/VANPL"
+                        },
+                        {
+                            "text": "Zingiber officinale",
+                            "eppo": "ZINOF",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/ZINOF"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "ornamental plants (terrestrial)",
+            "eppo": "3ORTC",
+            "taxo": "non-taxonomic",
+            "url": "https://gd.eppo.int/taxon/3ORTC",
+            "children": [
+                {
+                    "text": "ornamental cactuses and succulents",
+                    "eppo": "3ORSC",
+                    "taxo": "non-taxonomic",
+                    "url": "https://gd.eppo.int/taxon/3ORSC"
+                },
+                {
+                    "text": "ornamental herbaceous plants",
+                    "eppo": "3ORHC",
+                    "taxo": "non-taxonomic",
+                    "url": "https://gd.eppo.int/taxon/3ORHC"
+                },
+                {
+                    "text": "ornamental woody plants",
+                    "eppo": "3ORWC",
+                    "taxo": "non-taxonomic",
+                    "url": "https://gd.eppo.int/taxon/3ORWC",
+                    "children": [
+                        {
+                            "text": "ornamental broad-leaved trees, shrubs, and climbing plants",
+                            "eppo": "3ORBC",
+                            "taxo": "non-taxonomic",
+                            "url": "https://gd.eppo.int/taxon/3ORBC"
+                        },
+                        {
+                            "text": "ornamental conifers",
+                            "eppo": "3ORCC",
+                            "taxo": "non-taxonomic",
+                            "url": "https://gd.eppo.int/taxon/3ORCC"
+                        },
+                        {
+                            "text": "ornamental woody monocotyledonous plants",
+                            "eppo": "3ORMC",
+                            "taxo": "non-taxonomic",
+                            "url": "https://gd.eppo.int/taxon/3ORMC"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "vegetable crops",
+            "eppo": "3VEGC",
+            "taxo": "non-taxonomic",
+            "url": "https://gd.eppo.int/taxon/3VEGC",
+            "children": [
+                {
+                    "text": "Abelmoschus esculentus",
+                    "eppo": "ABMES",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/ABMES"
+                },
+                {
+                    "text": "allium vegetable crops",
+                    "eppo": "3ALLC",
+                    "taxo": "non-taxonomic",
+                    "url": "https://gd.eppo.int/taxon/3ALLC",
+                    "children": [
+                        {
+                            "text": "Allium ampeloprasum f. holmense",
+                            "eppo": "ALLAH",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/ALLAH"
+                        },
+                        {
+                            "text": "Allium ascalonicum",
+                            "eppo": "ALLAS",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/ALLAS"
+                        },
+                        {
+                            "text": "Allium cepa",
+                            "eppo": "ALLCE",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/ALLCE"
+                        },
+                        {
+                            "text": "Allium fistulosum",
+                            "eppo": "ALLFI",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/ALLFI"
+                        },
+                        {
+                            "text": "Allium porrum",
+                            "eppo": "ALLPO",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/ALLPO"
+                        },
+                        {
+                            "text": "Allium sativum",
+                            "eppo": "ALLSA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/ALLSA"
+                        },
+                        {
+                            "text": "Allium schoenoprasum",
+                            "eppo": "ALLSC",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/ALLSC"
+                        },
+                        {
+                            "text": "Allium tuberosum",
+                            "eppo": "ALLTU",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/ALLTU"
+                        }
+                    ]
+                },
+                {
+                    "text": "Arachis hypogaea",
+                    "eppo": "ARHHY",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/ARHHY"
+                },
+                {
+                    "text": "Asparagus officinalis",
+                    "eppo": "ASPOF",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/ASPOF"
+                },
+                {
+                    "text": "Bambusa vulgaris",
+                    "eppo": "BAMVU",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/BAMVU"
+                },
+                {
+                    "text": "beetroot crops",
+                    "eppo": "3BERC",
+                    "taxo": "non-taxonomic",
+                    "url": "https://gd.eppo.int/taxon/3BERC",
+                    "children": [
+                        {
+                            "text": "Beta vulgaris subsp. vulgaris var. conditiva",
+                            "eppo": "BEAVD",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/BEAVD"
+                        },
+                        {
+                            "text": "Beta vulgaris subsp. vulgaris var. lutea",
+                            "eppo": "BEAVL",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/BEAVL"
+                        }
+                    ]
+                },
+                {
+                    "text": "Cynara cardunculus",
+                    "eppo": "CYUCA",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/CYUCA"
+                },
+                {
+                    "text": "Cynara scolymus",
+                    "eppo": "CYUSC",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/CYUSC"
+                },
+                {
+                    "text": "Cyperus esculentus",
+                    "eppo": "CYPES",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/CYPES"
+                },
+                {
+                    "text": "Dioscorea sp.",
+                    "eppo": "DIUSS",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/DIUSS"
+                },
+                {
+                    "text": "edible mushroom crops",
+                    "eppo": "3EDMC",
+                    "taxo": "non-taxonomic",
+                    "url": "https://gd.eppo.int/taxon/3EDMC",
+                    "children": [
+                        {
+                            "text": "Agaricus bisporus",
+                            "eppo": "AGARBI",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/AGARBI"
+                        },
+                        {
+                            "text": "Auricularia auricula-judae",
+                            "eppo": "AURIAU",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/AURIAU"
+                        },
+                        {
+                            "text": "Flammulina velutipes",
+                            "eppo": "FLMUVE",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/FLMUVE"
+                        },
+                        {
+                            "text": "Hericium coralloides",
+                            "eppo": "HERICO",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/HERICO"
+                        },
+                        {
+                            "text": "Hericium erinaceus",
+                            "eppo": "HERIER",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/HERIER"
+                        },
+                        {
+                            "text": "Lentinula edodes",
+                            "eppo": "LENTED",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/LENTED"
+                        },
+                        {
+                            "text": "Pholiota microspora",
+                            "eppo": "PHOLNA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/PHOLNA"
+                        },
+                        {
+                            "text": "Pleurotus citrinopileatus",
+                            "eppo": "PLEUCI",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/PLEUCI"
+                        },
+                        {
+                            "text": "Pleurotus cornucopiae",
+                            "eppo": "PLEUCO",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/PLEUCO"
+                        },
+                        {
+                            "text": "Pleurotus eryngii",
+                            "eppo": "PLEUEY",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/PLEUEY"
+                        },
+                        {
+                            "text": "Pleurotus ostreatus",
+                            "eppo": "PLEUOS",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/PLEUOS"
+                        },
+                        {
+                            "text": "Volvariella volvacea",
+                            "eppo": "VOLLVO",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/VOLLVO"
+                        }
+                    ]
+                },
+                {
+                    "text": "Euterpe edulis",
+                    "eppo": "ETQED",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/ETQED"
+                },
+                {
+                    "text": "Euterpe oleracea",
+                    "eppo": "ETQOL",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/ETQOL"
+                },
+                {
+                    "text": "fruiting cucurbitaceous vegetable crops",
+                    "eppo": "3FCVC",
+                    "taxo": "non-taxonomic",
+                    "url": "https://gd.eppo.int/taxon/3FCVC",
+                    "children": [
+                        {
+                            "text": "Citrullus lanatus",
+                            "eppo": "CITLA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CITLA"
+                        },
+                        {
+                            "text": "Cucumis melo",
+                            "eppo": "CUMME",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CUMME"
+                        },
+                        {
+                            "text": "Cucumis sativus",
+                            "eppo": "CUMSA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CUMSA"
+                        },
+                        {
+                            "text": "Cucurbita maxima",
+                            "eppo": "CUUMA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CUUMA"
+                        },
+                        {
+                            "text": "Cucurbita maxima x Cucurbita moschata",
+                            "eppo": "CUUHY",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CUUHY"
+                        },
+                        {
+                            "text": "Cucurbita melopepo",
+                            "eppo": "CUUPM",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CUUPM"
+                        },
+                        {
+                            "text": "Cucurbita moschata",
+                            "eppo": "CUUMO",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CUUMO"
+                        },
+                        {
+                            "text": "Cucurbita pepo",
+                            "eppo": "CUUPE",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CUUPE"
+                        },
+                        {
+                            "text": "Cucurbita pepo var. giromontiina",
+                            "eppo": "CUUPG",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CUUPG"
+                        },
+                        {
+                            "text": "Lagenaria siceraria",
+                            "eppo": "LGNSI",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/LGNSI"
+                        }
+                    ]
+                },
+                {
+                    "text": "fruiting solanaceous vegetable crops",
+                    "eppo": "3FSVC",
+                    "taxo": "non-taxonomic",
+                    "url": "https://gd.eppo.int/taxon/3FSVC",
+                    "children": [
+                        {
+                            "text": "Capsicum annuum",
+                            "eppo": "CPSAN",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CPSAN"
+                        },
+                        {
+                            "text": "Capsicum frutescens",
+                            "eppo": "CPSFR",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CPSFR"
+                        },
+                        {
+                            "text": "Physalis angulata",
+                            "eppo": "PHYAN",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/PHYAN"
+                        },
+                        {
+                            "text": "Physalis ixocarpa",
+                            "eppo": "PHYIX",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/PHYIX"
+                        },
+                        {
+                            "text": "Physalis peruviana",
+                            "eppo": "PHYPE",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/PHYPE"
+                        },
+                        {
+                            "text": "Physalis pruinosa",
+                            "eppo": "PHYPR",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/PHYPR"
+                        },
+                        {
+                            "text": "Solanum betaceum",
+                            "eppo": "CYJBE",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CYJBE"
+                        },
+                        {
+                            "text": "Solanum lycopersicum",
+                            "eppo": "LYPES",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/LYPES"
+                        },
+                        {
+                            "text": "Solanum melongena",
+                            "eppo": "SOLME",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/SOLME"
+                        },
+                        {
+                            "text": "Solanum muricatum",
+                            "eppo": "SOLMU",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/SOLMU"
+                        }
+                    ]
+                },
+                {
+                    "text": "Helianthus tuberosus",
+                    "eppo": "HELTU",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/HELTU"
+                },
+                {
+                    "text": "Ipomoea batatas",
+                    "eppo": "IPOBA",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/IPOBA"
+                },
+                {
+                    "text": "leafy vegetable crops (excluding brassica)",
+                    "eppo": "3LEAC",
+                    "taxo": "non-taxonomic",
+                    "url": "https://gd.eppo.int/taxon/3LEAC",
+                    "children": [
+                        {
+                            "text": "Claytonia perfoliata",
+                            "eppo": "CLAPE",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CLAPE"
+                        },
+                        {
+                            "text": "leafy asteraceous vegetable crops",
+                            "eppo": "3ASTC",
+                            "taxo": "non-taxonomic",
+                            "url": "https://gd.eppo.int/taxon/3ASTC",
+                            "children": [
+                                {
+                                    "text": "Cichorium endivia",
+                                    "eppo": "CICEN",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/CICEN"
+                                },
+                                {
+                                    "text": "Cichorium intybus",
+                                    "eppo": "CICIN",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/CICIN"
+                                },
+                                {
+                                    "text": "Cichorium intybus var. foliosum",
+                                    "eppo": "CICIF",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/CICIF"
+                                },
+                                {
+                                    "text": "lettuce crops",
+                                    "eppo": "3LETC",
+                                    "taxo": "non-taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/3LETC",
+                                    "children": [
+                                        {
+                                            "text": "Lactuca sativa",
+                                            "eppo": "LACSA",
+                                            "taxo": "taxonomic",
+                                            "url": "https://gd.eppo.int/taxon/LACSA"
+                                        },
+                                        {
+                                            "text": "Lactuca sativa var. angustana",
+                                            "eppo": "LACSG",
+                                            "taxo": "taxonomic",
+                                            "url": "https://gd.eppo.int/taxon/LACSG"
+                                        },
+                                        {
+                                            "text": "Lactuca sativa var. capitata",
+                                            "eppo": "LACSC",
+                                            "taxo": "taxonomic",
+                                            "url": "https://gd.eppo.int/taxon/LACSC"
+                                        },
+                                        {
+                                            "text": "Lactuca sativa var. crispa",
+                                            "eppo": "LACSP",
+                                            "taxo": "taxonomic",
+                                            "url": "https://gd.eppo.int/taxon/LACSP"
+                                        },
+                                        {
+                                            "text": "Lactuca sativa var. longifolia",
+                                            "eppo": "LACSO",
+                                            "taxo": "taxonomic",
+                                            "url": "https://gd.eppo.int/taxon/LACSO"
+                                        },
+                                        {
+                                            "text": "Lactuca serriola",
+                                            "eppo": "LACSE",
+                                            "taxo": "taxonomic",
+                                            "url": "https://gd.eppo.int/taxon/LACSE"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Taraxacum officinale",
+                                    "eppo": "TAROF",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/TAROF"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "leafy chenopodiaceous vegetable crops",
+                            "eppo": "3CHEC",
+                            "taxo": "non-taxonomic",
+                            "url": "https://gd.eppo.int/taxon/3CHEC",
+                            "children": [
+                                {
+                                    "text": "Atriplex hortensis",
+                                    "eppo": "ATXHO",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/ATXHO"
+                                },
+                                {
+                                    "text": "Beta vulgaris subsp. vulgaris var. cicla",
+                                    "eppo": "BEAVV",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/BEAVV"
+                                },
+                                {
+                                    "text": "Beta vulgaris subsp. vulgaris var. flavescens",
+                                    "eppo": "BEAVF",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/BEAVF"
+                                },
+                                {
+                                    "text": "Chenopodium giganteum",
+                                    "eppo": "CHEGI",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/CHEGI"
+                                },
+                                {
+                                    "text": "Spinacia oleracea",
+                                    "eppo": "SPQOL",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/SPQOL"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Portulaca oleracea subsp. sativa",
+                            "eppo": "POROS",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/POROS"
+                        },
+                        {
+                            "text": "Rumex sp.",
+                            "eppo": "RUMSS",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/RUMSS"
+                        },
+                        {
+                            "text": "Sanguisorba minor",
+                            "eppo": "SANMI",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/SANMI"
+                        },
+                        {
+                            "text": "Tetragonia tetragonioides",
+                            "eppo": "TEATE",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/TEATE"
+                        },
+                        {
+                            "text": "Valerianella eriocarpa",
+                            "eppo": "VLLER",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/VLLER"
+                        },
+                        {
+                            "text": "Valerianella locusta",
+                            "eppo": "VLLLO",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/VLLLO"
+                        },
+                        {
+                            "text": "Veronica beccabunga",
+                            "eppo": "VERBE",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/VERBE"
+                        }
+                    ]
+                },
+                {
+                    "text": "legume vegetable crops",
+                    "eppo": "3LEVC",
+                    "taxo": "non-taxonomic",
+                    "url": "https://gd.eppo.int/taxon/3LEVC",
+                    "children": [
+                        {
+                            "text": "Cicer arietinum",
+                            "eppo": "CIEAR",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/CIEAR"
+                        },
+                        {
+                            "text": "Glycine max",
+                            "eppo": "GLXMA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/GLXMA"
+                        },
+                        {
+                            "text": "Lablab purpureus",
+                            "eppo": "DOLLA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/DOLLA"
+                        },
+                        {
+                            "text": "Lathyrus sativus",
+                            "eppo": "LTHSA",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/LTHSA"
+                        },
+                        {
+                            "text": "Lotus tetragonolobus",
+                            "eppo": "TTGPU",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/TTGPU"
+                        },
+                        {
+                            "text": "Lupinus albus",
+                            "eppo": "LUPAL",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/LUPAL"
+                        },
+                        {
+                            "text": "Lupinus angustifolius",
+                            "eppo": "LUPAN",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/LUPAN"
+                        },
+                        {
+                            "text": "Lupinus luteus",
+                            "eppo": "LUPLU",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/LUPLU"
+                        },
+                        {
+                            "text": "Lupinus pilosus",
+                            "eppo": "LUPVO",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/LUPVO"
+                        },
+                        {
+                            "text": "Phaseolus coccineus",
+                            "eppo": "PHSCO",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/PHSCO"
+                        },
+                        {
+                            "text": "Phaseolus lunatus",
+                            "eppo": "PHSLU",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/PHSLU"
+                        },
+                        {
+                            "text": "Phaseolus vulgaris",
+                            "eppo": "PHSVX",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/PHSVX"
+                        },
+                        {
+                            "text": "Phaseolus vulgaris subsp. nanus",
+                            "eppo": "PHSVN",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/PHSVN"
+                        },
+                        {
+                            "text": "Pisum sativum",
+                            "eppo": "PIBSX",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/PIBSX"
+                        },
+                        {
+                            "text": "Vicia faba",
+                            "eppo": "VICFX",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/VICFX"
+                        },
+                        {
+                            "text": "Vicia lens",
+                            "eppo": "LENCU",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/LENCU"
+                        },
+                        {
+                            "text": "Vigna unguiculata",
+                            "eppo": "VIGSI",
+                            "taxo": "taxonomic",
+                            "url": "https://gd.eppo.int/taxon/VIGSI"
+                        }
+                    ]
+                },
+                {
+                    "text": "Manihot esculenta",
+                    "eppo": "MANES",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/MANES"
+                },
+                {
+                    "text": "Maranta arundinacea",
+                    "eppo": "MARAR",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/MARAR"
+                },
+                {
+                    "text": "Phyllostachys edulis",
+                    "eppo": "PLLPU",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/PLLPU"
+                },
+                {
+                    "text": "Rheum rhabarbarum",
+                    "eppo": "RHERH",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/RHERH"
+                },
+                {
+                    "text": "Salicornia europaea",
+                    "eppo": "SAAEU",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/SAAEU"
+                },
+                {
+                    "text": "Scorzonera hispanica",
+                    "eppo": "SCVHI",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/SCVHI"
+                },
+                {
+                    "text": "Stachys affinis",
+                    "eppo": "STASB",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/STASB"
+                },
+                {
+                    "text": "Tragopogon porrifolius",
+                    "eppo": "TROPS",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/TROPS"
+                },
+                {
+                    "text": "umbelliferous vegetable crops",
+                    "eppo": "3UMBC",
+                    "taxo": "non-taxonomic",
+                    "url": "https://gd.eppo.int/taxon/3UMBC",
+                    "children": [
+                        {
+                            "text": "root umbelliferous vegetable crops",
+                            "eppo": "3UMRC",
+                            "taxo": "non-taxonomic",
+                            "url": "https://gd.eppo.int/taxon/3UMRC",
+                            "children": [
+                                {
+                                    "text": "Apium graveolens var. rapaceum",
+                                    "eppo": "APUGR",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/APUGR"
+                                },
+                                {
+                                    "text": "Daucus carota subsp. sativus",
+                                    "eppo": "DAUCS",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/DAUCS"
+                                },
+                                {
+                                    "text": "Pastinaca sativa",
+                                    "eppo": "PAVSA",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/PAVSA"
+                                },
+                                {
+                                    "text": "Petroselinum crispum var. tuberosum",
+                                    "eppo": "PARCT",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/PARCT"
+                                },
+                                {
+                                    "text": "Sium sisarum",
+                                    "eppo": "SIUSI",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/SIUSI"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "stem umbelliferous vegetable crops",
+                            "eppo": "3UMSC",
+                            "taxo": "non-taxonomic",
+                            "url": "https://gd.eppo.int/taxon/3UMSC",
+                            "children": [
+                                {
+                                    "text": "Apium graveolens",
+                                    "eppo": "APUGV",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/APUGV"
+                                },
+                                {
+                                    "text": "Apium graveolens var. dulce",
+                                    "eppo": "APUGD",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/APUGD"
+                                },
+                                {
+                                    "text": "Foeniculum vulgare var. azoricum",
+                                    "eppo": "FOEVA",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/FOEVA"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "vegetable brassica crops",
+                    "eppo": "3VBRC",
+                    "taxo": "non-taxonomic",
+                    "url": "https://gd.eppo.int/taxon/3VBRC",
+                    "children": [
+                        {
+                            "text": "cress and rocket crops",
+                            "eppo": "3CRRC",
+                            "taxo": "non-taxonomic",
+                            "url": "https://gd.eppo.int/taxon/3CRRC",
+                            "children": [
+                                {
+                                    "text": "Barbarea verna",
+                                    "eppo": "BARVE",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/BARVE"
+                                },
+                                {
+                                    "text": "Diplotaxis erucoides",
+                                    "eppo": "DIPER",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/DIPER"
+                                },
+                                {
+                                    "text": "Diplotaxis tenuifolia",
+                                    "eppo": "DIPTE",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/DIPTE"
+                                },
+                                {
+                                    "text": "Eruca vesicaria subsp. sativa",
+                                    "eppo": "ERUVE",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/ERUVE"
+                                },
+                                {
+                                    "text": "Lepidium latifolium",
+                                    "eppo": "LEPLA",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/LEPLA"
+                                },
+                                {
+                                    "text": "Lepidium sativum",
+                                    "eppo": "LEPSA",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/LEPSA"
+                                },
+                                {
+                                    "text": "Nasturtium officinale",
+                                    "eppo": "NAAOF",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/NAAOF"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "flowerhead brassica crops",
+                            "eppo": "3FBRC",
+                            "taxo": "non-taxonomic",
+                            "url": "https://gd.eppo.int/taxon/3FBRC",
+                            "children": [
+                                {
+                                    "text": "Brassica oleracea var. alboglabra",
+                                    "eppo": "BRSAG",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/BRSAG"
+                                },
+                                {
+                                    "text": "Brassica oleracea var. botrytis",
+                                    "eppo": "BRSOB",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/BRSOB"
+                                },
+                                {
+                                    "text": "Brassica oleracea var. italica",
+                                    "eppo": "BRSOK",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/BRSOK"
+                                },
+                                {
+                                    "text": "Brassica oleracea var. italica x Brassica oleracea var. alboglabra",
+                                    "eppo": "BRSIA",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/BRSIA"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "head brassica crops",
+                            "eppo": "3HBRC",
+                            "taxo": "non-taxonomic",
+                            "url": "https://gd.eppo.int/taxon/3HBRC",
+                            "children": [
+                                {
+                                    "text": "Brassica oleracea var. gemmifera",
+                                    "eppo": "BRSOF",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/BRSOF"
+                                },
+                                {
+                                    "text": "head cabbage crops",
+                                    "eppo": "3HCAC",
+                                    "taxo": "non-taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/3HCAC",
+                                    "children": [
+                                        {
+                                            "text": "Brassica oleracea var. capitata",
+                                            "eppo": "BRSOL",
+                                            "taxo": "taxonomic",
+                                            "url": "https://gd.eppo.int/taxon/BRSOL"
+                                        },
+                                        {
+                                            "text": "Brassica oleracea var. capitata f. alba",
+                                            "eppo": "BRSOH",
+                                            "taxo": "taxonomic",
+                                            "url": "https://gd.eppo.int/taxon/BRSOH"
+                                        },
+                                        {
+                                            "text": "Brassica oleracea var. capitata f. conica",
+                                            "eppo": "BRSON",
+                                            "taxo": "taxonomic",
+                                            "url": "https://gd.eppo.int/taxon/BRSON"
+                                        },
+                                        {
+                                            "text": "Brassica oleracea var. capitata f. rubra",
+                                            "eppo": "BRSOR",
+                                            "taxo": "taxonomic",
+                                            "url": "https://gd.eppo.int/taxon/BRSOR"
+                                        },
+                                        {
+                                            "text": "Brassica oleracea var. sabauda",
+                                            "eppo": "BRSOS",
+                                            "taxo": "taxonomic",
+                                            "url": "https://gd.eppo.int/taxon/BRSOS"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "leafy brassica crops",
+                            "eppo": "3LFBC",
+                            "taxo": "non-taxonomic",
+                            "url": "https://gd.eppo.int/taxon/3LFBC",
+                            "children": [
+                                {
+                                    "text": "Brassica juncea",
+                                    "eppo": "BRSJU",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/BRSJU"
+                                },
+                                {
+                                    "text": "Brassica oleracea var. palmifolia",
+                                    "eppo": "BRSOI",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/BRSOI"
+                                },
+                                {
+                                    "text": "Brassica oleracea var. sabellica",
+                                    "eppo": "BRSOC",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/BRSOC"
+                                },
+                                {
+                                    "text": "Brassica oleracea var. viridis",
+                                    "eppo": "BRSOA",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/BRSOA"
+                                },
+                                {
+                                    "text": "Brassica perviridis",
+                                    "eppo": "BRSPE",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/BRSPE"
+                                },
+                                {
+                                    "text": "Brassica rapa subsp. chinensis",
+                                    "eppo": "BRSCH",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/BRSCH"
+                                },
+                                {
+                                    "text": "Brassica rapa subsp. nipposinica",
+                                    "eppo": "BRSNO",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/BRSNO"
+                                },
+                                {
+                                    "text": "Brassica rapa subsp. pekinensis",
+                                    "eppo": "BRSPK",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/BRSPK"
+                                },
+                                {
+                                    "text": "Brassica rapa var. esculenta",
+                                    "eppo": "BRSRE",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/BRSRE"
+                                },
+                                {
+                                    "text": "Brassica ruvo",
+                                    "eppo": "BRSRW",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/BRSRW"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "root/stem brassica and radish crops",
+                            "eppo": "3RSBC",
+                            "taxo": "non-taxonomic",
+                            "url": "https://gd.eppo.int/taxon/3RSBC",
+                            "children": [
+                                {
+                                    "text": "Brassica napus subsp. rapifera",
+                                    "eppo": "BRSNA",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/BRSNA"
+                                },
+                                {
+                                    "text": "Brassica oleracea var. gongylodes",
+                                    "eppo": "BRSOG",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/BRSOG"
+                                },
+                                {
+                                    "text": "Brassica rapa",
+                                    "eppo": "BRSRR",
+                                    "taxo": "taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/BRSRR"
+                                },
+                                {
+                                    "text": "radish crops",
+                                    "eppo": "3RADC",
+                                    "taxo": "non-taxonomic",
+                                    "url": "https://gd.eppo.int/taxon/3RADC",
+                                    "children": [
+                                        {
+                                            "text": "Armoracia rusticana",
+                                            "eppo": "ARWLA",
+                                            "taxo": "taxonomic",
+                                            "url": "https://gd.eppo.int/taxon/ARWLA"
+                                        },
+                                        {
+                                            "text": "Raphanus sativus",
+                                            "eppo": "RAPSR",
+                                            "taxo": "taxonomic",
+                                            "url": "https://gd.eppo.int/taxon/RAPSR"
+                                        },
+                                        {
+                                            "text": "Raphanus sativus var. niger",
+                                            "eppo": "RAPSN",
+                                            "taxo": "taxonomic",
+                                            "url": "https://gd.eppo.int/taxon/RAPSN"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "text": "Zea mays subsp. saccharata",
+                    "eppo": "ZEAMS",
+                    "taxo": "taxonomic",
+                    "url": "https://gd.eppo.int/taxon/ZEAMS"
+                }
+            ]
+        }
+    ]
+}
