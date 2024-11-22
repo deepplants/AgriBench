@@ -2,3 +2,7 @@ X Implement translation question by question
 X check the effect of translation on QA with images
 X find a way to adapt tables to text and check the effect of translation
 - evaluate translation quality
+- plantnet 2 eppo x fare domande
+- identificazione di pest dalla descrizione testuale di eppo
+- valutazione qualitativa delle domande di identification
+- criterio di interpretazione dei risultati per specie in base a frequenza di occorrenze/distribuzione geografica/importanza commerciale/
