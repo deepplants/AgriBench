@@ -741,10 +741,11 @@
             ]
         },
         {
-            "text": "coniferous forest trees",
-            "eppo": "3FOCC",
+            "text": "forest trees",
+            "eppo": "3FORC",
             "taxo": "non-taxonomic",
-            "url": "https://gd.eppo.int/taxon/3FOCC"
+            "url": "https://gd.eppo.int/taxon/3FORC",
+            "children": []
         },
         {
             "text": "fruit crops",
@@ -2943,52 +2944,6 @@
                             "eppo": "ZINOF",
                             "taxo": "taxonomic",
                             "url": "https://gd.eppo.int/taxon/ZINOF"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "text": "ornamental plants (terrestrial)",
-            "eppo": "3ORTC",
-            "taxo": "non-taxonomic",
-            "url": "https://gd.eppo.int/taxon/3ORTC",
-            "children": [
-                {
-                    "text": "ornamental cactuses and succulents",
-                    "eppo": "3ORSC",
-                    "taxo": "non-taxonomic",
-                    "url": "https://gd.eppo.int/taxon/3ORSC"
-                },
-                {
-                    "text": "ornamental herbaceous plants",
-                    "eppo": "3ORHC",
-                    "taxo": "non-taxonomic",
-                    "url": "https://gd.eppo.int/taxon/3ORHC"
-                },
-                {
-                    "text": "ornamental woody plants",
-                    "eppo": "3ORWC",
-                    "taxo": "non-taxonomic",
-                    "url": "https://gd.eppo.int/taxon/3ORWC",
-                    "children": [
-                        {
-                            "text": "ornamental broad-leaved trees, shrubs, and climbing plants",
-                            "eppo": "3ORBC",
-                            "taxo": "non-taxonomic",
-                            "url": "https://gd.eppo.int/taxon/3ORBC"
-                        },
-                        {
-                            "text": "ornamental conifers",
-                            "eppo": "3ORCC",
-                            "taxo": "non-taxonomic",
-                            "url": "https://gd.eppo.int/taxon/3ORCC"
-                        },
-                        {
-                            "text": "ornamental woody monocotyledonous plants",
-                            "eppo": "3ORMC",
-                            "taxo": "non-taxonomic",
-                            "url": "https://gd.eppo.int/taxon/3ORMC"
                         }
                     ]
                 }
