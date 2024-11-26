@@ -8,3 +8,4 @@ X plantnet 2 eppo x fare domande
 - criterio di interpretazione dei risultati per specie in base a frequenza di occorrenze/distribuzione geografica/importanza commerciale/
 - scraping procedurale
 - generazione e sampling domande procedurale
+- comprensione del testo (?)
