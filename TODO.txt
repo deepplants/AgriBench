@@ -9,3 +9,4 @@ X plantnet 2 eppo x fare domande
 - scraping procedurale
 - generazione e sampling domande procedurale
 - comprensione del testo (?)
+- controllare che il sampling gerarchico non ritorni opzioni uguali

@@ -1,0 +1,10 @@
+group: agrivqa_val_agriculture_group
+group_alias: Agriculture Group
+task:
+  - agrivqa_val_agriculture
+aggregate_metric_list:
+  - metric: acc
+    aggregation: mean
+    weight_by_size: true
+metadata:
+  version: 0.0

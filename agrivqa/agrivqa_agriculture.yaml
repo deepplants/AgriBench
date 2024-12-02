@@ -1,0 +1,4 @@
+task: agrivqa_val_agriculture
+include: _template_yaml
+task_alias: Identification
+dataset_name: default

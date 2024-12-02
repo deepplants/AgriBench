@@ -1,6 +1,6 @@
 ebooklib
 bs4
-numpy
+#numpy
 #torch==2.0
 pyrouge
 #sentencepiece>=0.1.94, <0.1.98
@@ -9,10 +9,10 @@ pyrouge
 scipy
 #bitsandbytes>=0.41.2
 safetensors
-spacy
+#spacy
 gradio
 #OpenNMT-py
-ollama
+#ollama
 #transformers #?
 aiohttp
 #qwikidata
@@ -26,3 +26,13 @@ python-dwca-reader
 seaborn
 ipykernel
 pycountry
+#git+https://github.com/open-compass/VLMEvalKit.git
+#ipdb
+#torch==2.0.1
+#torchvision==0.15.2
+#pickleshare
+#moviepy==1.0.3
+vllm
+lm-eval
+lmms-eval
+#FLASH_ATTENTION_SKIP_CUDA_BUILD=TRUE pip install flash-attn --no-build-isolation
