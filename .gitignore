@@ -7,3 +7,9 @@
 /requirements.txt
 /important_datasets/
 lm_eval.ipynb
+lm-evaluation-harness
+*.csv
+*.jpg
+results
+images
+datasets
