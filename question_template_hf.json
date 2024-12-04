@@ -1,0 +1,31 @@
+{
+    "id": "string:{train,val,test}_agri_{knowledge,identification,procedure}_#number",
+    "question": "string:{question}",
+    "options": [
+        "string:{option1}",
+        "string:{option2}",
+        "string:{option3}",
+        "string:{optionN}"
+    ], 
+    "explanation": "string:{explanation}",
+    "image_1": "image:{image_1}",
+    "image_2": "image:{image_2}",
+    "image_3": "image:{image_3}",
+    "image_4": "image:{image_4}",
+    "image_5": "image:{image_5}",
+    "img_type": "string:{picture,diagram,table,graph}",
+    "answer": "string:{A,B,C,..|open}",
+    "topic_difficulty": "string:{easy,medium,hard}",
+    "question_type": "string:{multiple-choice,true-false,fill-in-the-blank,open-ended}",
+    "subfield": "string:{subfield}",
+    "metadata": {
+        "source": "string:{source}",
+        "author": "string:{author}",
+        "year": "string:{year}",
+        "license": "string:{license}",
+        "url": "string:{url}",
+        "eppo_code": "string:{eppo_code}",
+        "gbif_key": "string:{gbif_key}",
+        "...": "..."
+    }
+}

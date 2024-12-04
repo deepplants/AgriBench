@@ -1,0 +1,9 @@
+group: agrivqa_val
+task:
+  - agrivqa_val_agriculture_group
+aggregate_metric_list:
+  - metric: acc
+    aggregation: mean
+    weight_by_size: true
+metadata:
+  version: 0.0
