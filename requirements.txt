@@ -33,6 +33,6 @@ pycountry
 #pickleshare
 #moviepy==1.0.3
 vllm
-lm-eval
-lmms-eval
+#lm-eval
+#lmms-eval
 #FLASH_ATTENTION_SKIP_CUDA_BUILD=TRUE pip install flash-attn --no-build-isolation
