@@ -10,3 +10,4 @@ X plantnet 2 eppo x fare domande
 - generazione e sampling domande procedurale
 - comprensione del testo (?)
 - controllare che il sampling gerarchico non ritorni opzioni uguali
+- domande su trovare la stessa specie da organi diversi  con relativa difficoltà e explanation da ground truth
