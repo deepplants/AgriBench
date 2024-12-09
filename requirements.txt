@@ -35,4 +35,6 @@ pycountry
 vllm
 #lm-eval
 #lmms-eval
+ollama
+
 #FLASH_ATTENTION_SKIP_CUDA_BUILD=TRUE pip install flash-attn --no-build-isolation
