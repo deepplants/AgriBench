@@ -33,7 +33,7 @@ pycountry
 #pickleshare
 #moviepy==1.0.3
 vllm
-lm-eval
+#lm-eval
 #lmms-eval
 ollama
 

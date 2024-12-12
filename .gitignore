@@ -15,4 +15,6 @@ results
 images
 datasets
 my_MMMU
-/lmms-eval
+logs
+lmms-eval
+LLaVA-NeXT
