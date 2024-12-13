@@ -20,9 +20,11 @@ Experiments
                 flattened_visuals = []
             else:
                 flattened_visuals = self.flatten(batched_visuals)  # [B*N]
+
 - options as sequences in dataset: Sequence(feature=Value("string"))
                                    Dict({"metadata": Value("string")})
 
 - aggiungere context ai dataset [doc] 500P_context -> "This question is sourced from the book titled "{book_title}", specifically found in the chapter "{chapter_title}"
 - creare un rule prompt per GPT-eval in cui si specifica di non punire l'errore se l'esperto fa riferimento a zone geografiche (Brasile)
+- cambiare nome a Identifiaction in GBIF e 500P in Agri500P
 
