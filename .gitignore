@@ -18,3 +18,4 @@ my_MMMU
 logs
 lmms-eval
 LLaVA-NeXT
+__pycache__
