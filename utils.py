@@ -1,5 +1,6 @@
 import json
 from ollama import AsyncClient
+from datasets import load_dataset, concatenate_datasets
 
 def save_json(data, filename):
     with open(filename, 'w') as f:
@@ -29,3 +30,15 @@ class Chat:
             options={"temperature": self.temperature}
         )
         return response['message']['content']
+    
+def load_dataset_dict(folder_path, concat=False): # TODO check that work with multiple files
+    dataset_name = "parquet"
+    data_files = {
+        "dev": f"{folder_path}/dev-0*.parquet",
+        "test": f"{folder_path}/test-*.parquet",
+        "validation": f"{folder_path}/validation-*.parquet"
+    }
+    dataset = load_dataset(dataset_name,data_files=data_files)
+    if concat:
+        return concatenate_datasets([dataset['dev'], dataset['test'], dataset['validation']])
+    return dataset
