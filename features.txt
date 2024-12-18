@@ -1,0 +1,140 @@
+AgriExam_features = Features({
+    
+ 'id': Value(dtype='string', id=None),
+ 'question': Value(dtype='string', id=None),
+ 'options': Sequence(feature=Value("string")),
+ 'answer': Value(dtype='string', id=None),
+ 
+ 'category': Value(dtype='string', id=None), # Plant Science, Pests, Taxonomy, Scientific_name
+ 'question_type': Value(dtype='string', id=None), # multiple choice, open ended 
+ 
+ 'metadata':{'source': Value(dtype='string'),
+                              'license': Value(dtype='string'),
+                              'url': Value(dtype='string'),
+                              'language': Value(dtype='string'),
+                              'verbose_answer': Value(dtype='string') 
+                              }
+                    
+ })
+
+
+Agri500P_features = Features({
+    
+ 'id': Value(dtype='string', id=None),
+ 'question': Value(dtype='string', id=None),
+ 'answer': Value(dtype='string', id=None),
+ 
+ 'context': Value(dtype='string', id=None),
+ 
+ 'category': Value(dtype='string', id=None), # Plant Science, Pests, Taxonomy
+ 'question_type': Value(dtype='string', id=None), # multiple choice, open ended 
+ 
+ 'metadata': {'source': Value(dtype='string'),
+                               'license': Value(dtype='string'),
+                               'language': Value(dtype='string'),
+                               'book_title': Value(dtype='string'),
+                               'chapter_title': Value(dtype='string')
+                               }
+ })
+
+
+Agri500P_row = {
+    "id": "_Agri500P_{number}",
+    "question": "{question}",
+    "answer": "{answer}",
+    "context": "{context}",
+    "category": "{category}",  # Example: Plant Science, Pests, Taxonomy
+    "question_type": "{question_type}",  # Example: multiple choice, open ended
+    "metadata":
+        {
+            "source": "{source}",
+            "license": "{license}",
+            "language": "{language}",
+            "book_title": "{book_title}",
+            "chapter_title": "{chapter_title}"
+        }
+}
+
+
+EPPO_features = Features({
+    
+    'id': Value(dtype='string', id=None),
+    'question': Value(dtype='string', id=None),
+    'options': Sequence(feature=Value("string")),
+    'answer': Value(dtype='string', id=None),
+    
+    'image': Image(decode=True, id=None),
+    
+    'taxon_difficulty': Value(dtype='int32', id=None), # how common is the taxon in the picture?
+    'options_difficulty': Value(dtype='int32', id=None),
+    'kingdom': Value(dtype='string', id=None),
+    
+    'category': Value(dtype='string', id=None), # Taxonomy, Growth Stage, Common Name
+    'question_template' : Value(dtype='string', id=None), # scientific_name, common_name
+    'question_type': Value(dtype='string', id=None), # multiple choice, open ended
+    
+    'metadata': {'source': Value(dtype='string'),
+                                  'license': Value(dtype='string'),
+                                  'image_url': Value(dtype='string'),
+                                  'language': Value(dtype='string'),
+                                  'verbose_answer': Value(dtype='string'),
+                                  "eppo_code": Value(dtype='string'),
+                                  "gbif_key": Value(dtype='string'),
+                                  "common_name_language": Value(dtype='string') 
+                                  }
+    })
+
+
+GBIF_features = Features({
+    
+    'id': Value(dtype='string', id=None),
+    'question': Value(dtype='string', id=None),
+    'options': Sequence(feature=Value("string")),
+    'answer': Value(dtype='string', id=None),
+ 
+    'image_1': Image(decode=True, id=None),
+    'image_2': Image(decode=True, id=None),
+    'image_3': Image(decode=True, id=None),
+    'image_4': Image(decode=True, id=None),
+    'image_5': Image(decode=True, id=None),
+    
+    'options_difficulty': Value(dtype='int32', id=None), # previously topic_difficulty
+    
+    'region': Value(dtype='string', id=None),
+    'event_date': Value(dtype='string', id=None),
+    
+    # Category can be Horticulture, tropical plants etc
+    #'category': Value(dtype='string', id=None), #previously subfield # Plant Science, Pests, Taxonomy
+    'question_template' :  Value(dtype='string', id=None),
+    'question_type': Value(dtype='string', id=None), # multiple choice, open ended 
+    
+    'metadata': {'source': Value(dtype='string'),
+                                  'license': Value(dtype='string'),
+                                  'image_url': Sequence(feature=Value("string")),
+                                  "gbif_id": Value(dtype='string'),
+                                  "eppo_codes": Sequence(feature=Value("string")),
+                                  "gbif_taxon_key": Value(dtype='string'),
+                                  'language': Value(dtype='string'),
+                                  'verbose_answer': Value(dtype='string')
+                                  }
+    })
+
+WikiHow_features = Features({
+    
+ 'id': Value(dtype='string', id=None),
+ 'question': Value(dtype='string', id=None),
+ 'options': Sequence(feature=Value("string")),
+ 'answer': Value(dtype='string', id=None),
+ 
+ 'options_difficulty': Value(dtype='int32', id=None),
+ 
+ 'category': Value(dtype='string', id=None), # TODO
+ 'question_type': Value(dtype='string', id=None), # multiple choice, open ended
+ 'question_template' : Value(dtype='string', id=None), # previously metadata[questiontype]
+ 
+ 'metadata': {'source': Value(dtype='string'),
+                               'url': Value(dtype='string'),
+                               'language': Value(dtype='string'),
+                               'verbose_answer': Value(dtype='string')
+                               }
+ })
