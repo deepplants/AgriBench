@@ -16,3 +16,8 @@ images
 datasets
 my_MMMU
 lmms-eval
+logs
+agrivqa1
+LLaVA-NeXT
+LLaVA
+__pycache__

@@ -1,40 +1,40 @@
-ebooklib
-bs4
-#numpy
-#torch==2.0
-pyrouge
-#sentencepiece>=0.1.94, <0.1.98
-#subword-nmt>=0.3.7
-#rapidfuzz
-scipy
-#bitsandbytes>=0.41.2
-safetensors
-#spacy
-gradio
-#OpenNMT-py
-#ollama
-#transformers #?
-aiohttp
-#qwikidata
-pprintpp
-nltk
-fastparquet
-pyarrow
-anytree
-networkx
-python-dwca-reader
-seaborn
-ipykernel
-pycountry
-#git+https://github.com/open-compass/VLMEvalKit.git
-#ipdb
-#torch==2.0.1
-#torchvision==0.15.2
-#pickleshare
-#moviepy==1.0.3
-vllm
-#lm-eval
-#lmms-eval
-ollama
-
-#FLASH_ATTENTION_SKIP_CUDA_BUILD=TRUE pip install flash-attn --no-build-isolation
+# ebooklib
+# bs4
+# #numpy
+# #torch==2.0
+# pyrouge
+# #sentencepiece>=0.1.94, <0.1.98
+# #subword-nmt>=0.3.7
+# #rapidfuzz
+# scipy
+# #bitsandbytes>=0.41.2
+# safetensors
+# #spacy
+# gradio
+# #OpenNMT-py
+# #ollama
+# #transformers #?
+# aiohttp
+# #qwikidata
+# pprintpp
+# nltk
+# fastparquet
+# pyarrow
+# anytree
+# networkx
+# python-dwca-reader
+# seaborn
+# ipykernel
+# pycountry
+# #git+https://github.com/open-compass/VLMEvalKit.git
+# #ipdb
+# #torch==2.0.1
+# #torchvision==0.15.2
+# #pickleshare
+# #moviepy==1.0.3
+# vllm
+# #lm-eval
+# #lmms-eval
+# ollama
+# #FLASH_ATTENTION_SKIP_CUDA_BUILD=TRUE pip install flash-attn --no-build-isolation
+demo-package
