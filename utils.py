@@ -31,7 +31,7 @@ class Chat:
         )
         return response['message']['content']
     
-def load_dataset_dict(folder_path, concat=False): # TODO check that work with multiple files
+def load_dataset_dict(folder_path, concat=False):
     dataset_name = "parquet"
     data_files = {
         "dev": f"{folder_path}/dev-0*.parquet",
