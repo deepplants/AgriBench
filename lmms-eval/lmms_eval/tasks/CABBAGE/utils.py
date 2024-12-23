@@ -181,7 +181,7 @@ def CABBAGE_process_results_gpt_eval(doc, results):
         review = "Failed to Get a Proper Review."
         model_name = "Failed Request"
         score = -1
-    if score > PASSING_GRADE:
+    if score >= PASSING_GRADE:
         value = 1.0
     else:
         value = 0.0
