@@ -1,0 +1,35 @@
+dataset_path: parquet
+dataset_kwargs:
+  data_files:
+    dev: "/workdir/important_datasets/CABBAGE/PlantNet_Multi_Identification/dev-00000-of-00001.parquet"
+    test:
+      - "/workdir/important_datasets/CABBAGE/PlantNet_Multi_Identification/test-00000-of-00002.parquet"
+      - "/workdir/important_datasets/CABBAGE/PlantNet_Multi_Identification/test-00001-of-00002.parquet"
+    validation: "/workdir/important_datasets/CABBAGE/PlantNet_Multi_Identification/validation-00000-of-00001.parquet"
+task: "CABBAGE_PlantNet_Multi_Identification"
+test_split: dev
+output_type: generate_until
+doc_to_visual: !function utils.CABBAGE_doc_to_visual
+doc_to_text: !function utils.CABBAGE_doc_to_text
+doc_to_target: "answer"
+
+generation_kwargs:
+  max_new_tokens: 1024
+  temperature: 0
+  top_p: 1.0
+  num_beams: 1
+  do_sample: false
+
+process_results: !function utils.CABBAGE_process_results_gpt_eval
+
+metric_list:
+  - metric: gpt_eval_score
+    aggregation: !function utils.gpt_eval_aggregation
+    higher_is_better: true
+metadata:
+  version: 0.0
+  gpt_eval_model_name: "gpt-4o-mini" #"gpt-4-0613"
+lmms_eval_specific_kwargs:
+  default:
+    pre_prompt: ""
+    post_prompt: ""

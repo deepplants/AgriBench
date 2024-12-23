@@ -1,0 +1,9 @@
+group: CABBAGE
+task:
+  - CABBAGE_AgriExam
+  - CABBAGE_Agri500P
+  - CABBAGE_PlantNet_Multi_Identification
+  #- CABBAGE_EPPO
+  - CABBAGE_wikiHow
+metadata:
+  version: 0.0

@@ -1,16 +1,16 @@
 dataset_path: parquet
 dataset_kwargs:
   data_files:
-    dev: "/workdir/important_datasets/AGRIVQA/AgriExam/dev-00000-of-00001.parquet"
-    test: "/workdir/important_datasets/AGRIVQA/AgriExam/test-00000-of-00001.parquet"
-    validation: "/workdir/important_datasets/AGRIVQA/AgriExam/validation-00000-of-00001.parquet"
+    dev: "/workdir/important_datasets/CABBAGE/AgriExam/dev-00000-of-00001.parquet"
+    test: "/workdir/important_datasets/CABBAGE/AgriExam/test-00000-of-00001.parquet"
+    validation: "/workdir/important_datasets/CABBAGE/AgriExam/validation-00000-of-00001.parquet"
 
 task: "CABBAGE_AgriExam"
 test_split: dev
 #validation_split: dev
 output_type: generate_until
-doc_to_visual: !function utils.CABBAGE_AgriExam_doc_to_visual
-doc_to_text: !function utils.CABBAGE_AgriExam_doc_to_text
+doc_to_visual: !function utils.CABBAGE_doc_to_visual
+doc_to_text: !function utils.CABBAGE_doc_to_text
 doc_to_target: "answer"
 
 generation_kwargs:
@@ -25,7 +25,7 @@ metric_list:
     ignore_case: true
     ignore_punctuation: true
 
-process_results: !function utils.CABBAGE_AgriExam_process_results
+process_results: !function utils.CABBAGE_process_results_exact_match
 
 metadata:
   - version: 0.0
