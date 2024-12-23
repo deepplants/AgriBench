@@ -1,0 +1,37 @@
+dataset_path: parquet
+dataset_kwargs:
+  data_files:
+    dev: "/workdir/important_datasets/AGRIVQA/AgriExam/dev-00000-of-00001.parquet"
+    test: "/workdir/important_datasets/AGRIVQA/AgriExam/test-00000-of-00001.parquet"
+    validation: "/workdir/important_datasets/AGRIVQA/AgriExam/validation-00000-of-00001.parquet"
+
+task: "CABBAGE_AgriExam"
+test_split: dev
+#validation_split: dev
+output_type: generate_until
+doc_to_visual: !function utils.CABBAGE_AgriExam_doc_to_visual
+doc_to_text: !function utils.CABBAGE_AgriExam_doc_to_text
+doc_to_target: "answer"
+
+generation_kwargs:
+  max_new_tokens: 16
+  temperature: 0.5
+  do_sample: False
+
+metric_list:
+  - metric: exact_match
+    aggregation: mean
+    higher_is_better: true
+    ignore_case: true
+    ignore_punctuation: true
+
+process_results: !function utils.CABBAGE_AgriExam_process_results
+
+metadata:
+  - version: 0.0
+
+lmms_eval_specific_kwargs:
+  default:
+    format: default
+    pre_prompt: ""
+    post_prompt: "\nAnswer with the option's letter from the given choices directly."

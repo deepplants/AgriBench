@@ -1,0 +1,25 @@
+gpt-4o
+gpt-4o-mini
+
+gemini-1.5-pro
+gemini-1.5-flash
+
+lmms-lab/llama3-llava-next-8b
+lmms-lab/llava-next-qwen-32b
+
+Qwen/Qwen2-VL-7B-Instruct
+
+OpenGVLab/InternVL2_5-8B
+OpenGVLab/InternVL2_5-26B
+
+
+--------------------------------------------
+
+meta-llama/Llama-3.2-11B-Vision-Instruct (download not possible) ???
+meta-llama/Llama-3.2-90B-Vision-Instruct (download not possible) ???
+
+Qwen/QwQ-32B-Preview (model not present in lmms-eval) ???
+
+lmms-lab/llava-next-72b
+
+Qwen/Qwen2-VL-72B-Instruct
